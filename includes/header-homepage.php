@@ -53,6 +53,9 @@
 							<a href="/find-talent-and-work" title="Find Talent &amp; Work">Find Talent &amp; Work</a>
 						</li>
 						<li>
+							<a href="/blog" title="Blog">Blog</a>
+						</li>
+						<li>
 							<a href="/sign-up" title="Sign Up">Sign Up</a>
 						</li>
 						<li class="last">

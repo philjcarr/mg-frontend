@@ -21,79 +21,79 @@
 
 			<div class="howitworksHold">
 				<div class="col1">
-					<a href="#" class="shapeOne" title="">
+					<a href="/how-it-works/producers-and-remixers/" class="shapeOne" title="Producers">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/producers.png" alt="" />
+							<img src="/images/how-it-works/icons/producers.png" alt="Producers" />
 						</span>
 						<span class="text">Producers</span>
 					</a>
-					<a href="#" class="shapeTwo" title="">
+					<a href="/how-it-works/mastering" class="shapeTwo" title="Mastering">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/mastering.png" alt="" />
+							<img src="/images/how-it-works/icons/mastering.png" alt="Mastering" />
 						</span>
 						<span class="text">Mastering</span>
 					</a>
-					<a href="#" class="shapeThree" title="">
+					<a href="/how-it-works/artists" class="shapeThree" title="Artists">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/artists.png" alt="" />
+							<img src="/images/how-it-works/icons/artists.png" alt="Artists" />
 						</span>
 						<span class="text">Artists</span>
 					</a>
-					<a href="#" class="shapeThree finalRow" title="">
+					<a href="/how-it-works/bands" class="shapeThree finalRow" title="Bands">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/bands.png" alt="" />
+							<img src="/images/how-it-works/icons/bands.png" alt="Bands" />
 						</span>
 						<span class="text">Bands</span>
 					</a>
-					<a href="#" class="shapeTwo finalRow" title="">
+					<a href="/how-it-works/industry-services" class="shapeTwo finalRow" title="Industry Services">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/industry-services.png" alt="" />
+							<img src="/images/how-it-works/icons/industry-services.png" alt="Industry Services" />
 						</span>
 						<span class="text">Industry Services</span>
 					</a>
 				</div>
 				<div class="col2">
-					<a href="#" class="shapeThree" title="">
+					<a href="/how-it-works/studios" class="shapeThree" title="Studios">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/studios.png" alt="" />
+							<img src="/images/how-it-works/icons/studios.png" alt="Studios" />
 						</span>
 						<span class="text">Studios</span>
 					</a>
-					<a href="#" class="shapeTwo" title="">
+					<a href="/how-it-works/musicians" class="shapeTwo" title="Musicians">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/musicians.png" alt="" />
+							<img src="/images/how-it-works/icons/musicians.png" alt="Musicians" />
 						</span>
 						<span class="text">Musicians</span>
 					</a>
-					<a href="#" class="shapeThree finalRow" title="">
+					<a href="/how-it-works/publishers" class="shapeThree finalRow" title="Publishers">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/publishers.png" alt="" />
+							<img src="/images/how-it-works/icons/publishers.png" alt="Publishers" />
 						</span>
 						<span class="text">Publishers</span>
 					</a>
-					<a href="#" class="shapeTwo finalRow" title="">
+					<a href="/how-it-works/songwriters" class="shapeTwo finalRow" title="Songwriters">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/songwriters.png" alt="" />
+							<img src="/images/how-it-works/icons/songwriters.png" alt="Songwriters" />
 						</span>
 						<span class="text">Songwriters</span>
 					</a>
-					<a href="#" class="shapeOne" title="">
+					<a href="/how-it-works/artist-management" class="shapeOne" title="Artist Management">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/artist-management.png" alt="" />
+							<img src="/images/how-it-works/icons/artist-management.png" alt="Artist Management" />
 						</span>
 						<span class="text">Artist Management</span>
 					</a>
 				</div>
 				<div class="col3">
-					<a href="#" class="shapeThree" title="">
+					<a href="/how-it-works/vocalists" class="shapeThree" title="Vocalists">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/vocalists.png" alt="" />
+							<img src="/images/how-it-works/icons/vocalists.png" alt="Vocalists" />
 						</span>
 						<span class="text">Vocalists</span>
 					</a>
-					<a href="#" class="shapeFour" title="">
+					<a href="/how-it-works/record-labels" class="shapeFour" title="Record Labels">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/record-labels.png" alt="" />
+							<img src="/images/how-it-works/icons/record-labels.png" alt="Record Labels" />
 						</span>
 						<span class="text">Record Labels</span>
 					</a>

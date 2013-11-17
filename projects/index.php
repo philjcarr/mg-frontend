@@ -4,10 +4,20 @@
 
 <!-- Container Start -->
 <div class="container-fluid">
+	<section class="row-fluid">
+		<div class="span12">
+			<h1 class="topHeading">Projects</h1>
+		</div>
+	</section>
+</div>
+<!-- Contaciner End -->
+
+<!-- Container Start -->
+<div class="container-fluid">
 	<!-- Row Start -->
 	<section class="row-fluid">
 		<div class="span12">
-			Projects Data here...
+			
 		</div>
 	</section>
 	<!-- Row End -->

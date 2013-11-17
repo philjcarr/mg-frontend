@@ -4,10 +4,20 @@
 
 <!-- Container Start -->
 <div class="container-fluid">
+	<section class="row-fluid">
+		<div class="span12">
+			<h1 class="topHeading">Features</h1>
+		</div>
+	</section>
+</div>
+<!-- Contaciner End -->
+
+<!-- Container Start -->
+<div class="container-fluid">
 	<!-- Row Start -->
 	<section class="row-fluid">
 		<div class="span12">
-			Features page will be here :)
+			
 		</div>
 	</section>
 	<!-- Row End -->
