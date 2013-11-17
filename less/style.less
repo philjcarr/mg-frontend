@@ -59,6 +59,10 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 @lightGrey: #eeeff0;
 @red: #d2514a;
 
+/* COLORS - HOW IT WORKS SHADES */
+@blue1: #3bb3ed;
+@blue2: #297ca3;
+@blue3: #6ac2ed;
 
 /* ==================================================================================================================== */
 /* ! FUNCTIONS
@@ -147,11 +151,29 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 	.transition();
 }
 
+/* ==================================================================================================================== */
+/* ! KEYFRAMES
+/* ==================================================================================================================== */
 
-
-
-
-
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+.fadeIn(){
+	-webkit-animation: fadein 3s;
+	-moz-animation: fadein 3s;
+	-ms-animation: fadein 3s;
+	-o-animation: fadein 3s;
+	animation: fadein 3s;
+}
 
 /* ==================================================================================================================== */
 /* ! BOOTSTRAP OVERRIDES
@@ -289,11 +311,101 @@ nav {
 h1 {
 	&.topHeading {
 		padding: @spaceHalf + 0.1em 0;
+		font-size: @font3;
 		&.center {
 			text-align: center;
 		}
 	}
 }
+h2 {
+	&.center {
+		text-align: center;
+		font-size: 3em;
+		padding: 0;
+	}
+}
+
+/*  HOME BANNER  */
+.homeBanner {
+	background: #3bace2 url('../images/home-banner.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 600px;
+  	width: 100%;
+  	display: block;
+  	position: relative;
+  	nav {
+  		background: transparent;
+  		.fadeIn();
+  	}
+  	h1, h2 {
+  		text-align: center;
+  		color: @white;
+  		.fadeIn();
+  		
+  	}
+  	h1 {
+  		padding: @spaceOne + 0.3em 0 0;
+  		font-size: 5em;
+  	}
+  	h2 {
+  		padding: 0.4em 0 0;
+  	}
+  	.left,
+  	.right {
+  		float: @left;
+  		width: 50%;
+  		display: block;
+  	}
+  	.left {
+  		a {
+  			&.orangeButton {
+  				.orangeButton();
+  				float: @right;
+  				margin: @spaceTwo + @spaceHalf @spaceOneHalf 0 0;
+  				font-size: @font1 + 0.8em;
+  				width: @width40 + 5%;
+  				text-align: center;
+  				.fadeIn();
+  			}
+  		}
+  	}
+  	.right {
+  		a {
+  			&.greenButton {
+  				.greenButton();
+  				float: @left;
+  				margin: @spaceTwo + @spaceHalf 0 0 @spaceOneHalf;
+  				font-size: @font1 + 0.8em;
+  				width: @width40 + 5%;
+  				text-align: center;
+  				.fadeIn();
+  			}
+  		}
+  	}
+  	.buttonHold {
+  		position: absolute;
+  		bottom: 0;
+  		left: 0;
+  		width: 100%;
+  		a {
+  			outline: none;
+	  		&.bannerDown {
+	  			display: block;
+	  			background: url('../images/down-arrow.png') no-repeat;
+	  			width: 90px;
+	  			height: 45px;
+	  			margin: 0 auto;
+	  			&:hover {
+	  				opacity: 1;
+	  			}
+	  		}
+	  	}
+  	}
+}
+
 
 
 /*  FORM STYLES  */
@@ -447,9 +559,151 @@ form {
 	}
 }
 
-
-
-
+/* HOW IT WORKS PAGE */
+.howitworksHold {
+	float: @left;
+	width: @width100;
+	margin: @spaceTwo 0 0;
+	.col1,
+	.col2 {
+		width: @width40;
+		float: @left;
+		display: block;
+		padding: 0 1% 0 0;
+	}
+	.shapeOne,
+	.shapeTwo,
+	.shapeThree,
+	.shapeFour {
+		float: @left;
+		position: relative;
+		text-align: center;
+		span {
+			&.text {
+				font-family: @fontSig;
+				color: @white;
+				position: absolute;
+				width: @width100;
+				bottom: @spaceOneHalf;
+				left: 0;
+				font-size: @font1 + 0.8em;
+				text-align: center;
+				line-height: 22px;
+			}
+			&.icon {
+				width: @width100;
+				text-align: center;
+				position: absolute;
+				left: 0;
+				top: @spaceThree;
+			}
+		}
+	}
+	.shapeOne {
+		width: @width100;
+		height: 126px;
+	}
+	.shapeTwo {
+		height: 225px;
+	}
+	.shapeThree {
+		height: 225px;
+	}
+	.shapeFour {
+		height: 364px;
+	}
+	.col1 {
+		.shapeOne {
+			background: @blue1;
+			margin: 0 0 3% 0;
+			span {
+				&.text {
+					top: @width40 + 1%;
+					width: @width40;
+					left: @width40 + 2%;
+				}
+				&.icon {
+					width: @width50 + 4%;
+					top: @spaceOne + 0.6em;
+				}
+			}
+		}
+		.shapeTwo {
+			width: @width50 + 7%;
+			margin: 0 3% 3% 0;
+			background: @blue2;
+			&.finalRow {
+				margin: 0;
+			}
+		}
+		.shapeThree {
+			width: @width40;
+			margin: 0 0 3% 0;
+			background: @blue3;
+			&.finalRow {
+				margin: 0 3% 0 0;
+			}
+		}
+	}
+	.col2 {
+		.shapeOne {
+			background: @blue1;
+			margin: 0;
+			span {
+				&.text {
+					top: @width40 + 1%;
+					width: @width50 + 7%;
+					left: @width40 + 2%;
+				}
+				&.icon {
+					width: @width40 + 8%;
+					top: @spaceOne + 0.6em;
+				}
+			}
+		}
+		.shapeTwo {
+			width: @width50 + 7%;
+			margin: 0 0 3% 0;
+			background: @blue;
+			&.finalRow {
+				background: @blue3;
+				margin: 0 0 3% 0;
+			}
+		}
+		.shapeThree {
+			width: @width40;
+			margin: 0 3% 3% 0;
+			background: @blue2;
+			&.finalRow {
+				background: @blue;
+				margin: 0 3% 3% 0;
+			}
+		}
+	}
+	.col3 {
+		width: @width20;
+		float: @left;
+		display: block;
+		.shapeThree {
+			margin: 0 0 5.8% 0;
+			background: @blue3;
+			width: @width100;
+		}
+		.shapeFour {
+			margin: 0;
+			background: @blue3;
+			width: @width100;
+			span {
+				&.text {
+					bottom: @spaceThree + @spaceHalf;
+				}
+				&.icon {
+					top: 8.5em;
+				}
+			}
+		}
+	}
+}
 
 /*  INNER  */
 
@@ -923,6 +1177,68 @@ footer {
 	}
 }
 
+@media (max-width: 917px) {
+	.homeBanner {
+		h1 {
+			font-size: 4em;
+		}
+		.left {
+			a {
+				&.orangeButton {
+					width: @width60 + 5%;
+				}
+			}
+		}
+		.right {
+			a {
+				&.greenButton {
+					width: @width60 + 5%;
+				}
+			}
+		}
+		
+	}
+}
+
+@media (max-width: 900px) {
+	.howitworksHold {
+		.col1 {
+			width: @width50;
+			margin: 0 0 1.5% 0;
+			padding: 0 1.5% 0 0;
+		}
+		.col2 {
+			width: @width50;
+			margin: 0 0 1.5% 0;
+			padding: 0;
+
+		}
+		.col3 {
+			width: @width100;
+			.shapeThree {
+				width: @width40 + 8.5%;
+				margin: 0 1.5% 0 0;
+				float: @left;
+				height: 212px;
+			}
+			.shapeFour {
+				float: @left;
+				width: @width50;
+				margin: 0;
+				height: 212px;
+				span {
+					&.text {
+						bottom: 1.5em;
+					}
+					&.icon {
+						top: 4.5em;
+					}
+				}
+			}
+		}
+	}
+}
+
 @media (max-width: 884px) {
 	.container-fluid {
 		.row-fluid {
@@ -1039,6 +1355,89 @@ footer {
 	}
 }
 
+@media (max-width: 740px) {
+	.homeBanner {
+		h1 {
+			padding: 0.9em 0 0;
+		}
+	}
+}
+
+@media (max-width: 645px) {
+	.homeBanner {
+		h1 {
+			font-size: 4em;
+		}
+		.left {
+			width: @width100;
+			a {
+				&.orangeButton {
+					width: @width100;
+					padding: 0.8em 0;
+					margin: @spaceOne 0 0;
+				}
+			}
+		}
+		.right {
+			width: @width100;
+			a {
+				&.greenButton {
+					width: @width100;
+					padding: 0.8em 0;
+					margin: @spaceOne 0 0;
+				}
+			}
+		}
+		
+	}
+}
+
+@media (max-width: 632px) {
+	.howitworksHold {
+		.col1, .col2, .col3 {
+			width: @width100;
+			margin: 0 0 1.5% 0;
+			padding: 0;
+			.shapeOne, .shapeTwo, .shapeThree, .shapeFour {
+				width: @width100;
+				height: 109px;
+				span {
+					&.icon {
+						padding: 0 0 0 3%;
+						top: @spaceOne;
+						width: @width100;
+						text-align: left;
+						left: 0;
+					}
+					&.text {
+						width: auto;
+						padding: 0 0 0 6em;
+						left: 0;
+					}
+				}
+			}
+			.shapeThree {
+				&.finalRow {
+					margin: 0 0 3% 0;
+				}
+			}
+		}
+		.col3 {
+			margin: 0;
+			.shapeThree {
+				margin: 0 0 3% 0;
+			}
+			.shapeFour {
+				span {
+					&.icon {
+						top: @spaceTwo + @spaceHalf;
+					}
+				}
+			}
+		}
+	}
+}
+
 @media (max-width: 525px) {
 	h1 {
 		&.topHeading {
@@ -1090,6 +1489,47 @@ footer {
 						width: @width100;
 						text-align: center;
 						margin: 0;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 438px) {
+	.homeBanner {
+		height: 484px;
+		h1 {
+			font-size: @font3;
+		}
+		h2 {
+			font-size: @font1-5;
+		}
+		.left {
+			a {
+				&.orangeButton {
+					font-size: @font1 + 0.4em;
+				}
+			}
+		}
+		.right {
+			a {
+				&.greenButton {
+					font-size: @font1 + 0.4em;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 403px) {
+	.howitworksHold {
+		.col1, .col2, .col3 {
+			.shapeOne, .shapeTwo, .shapeThree, .shapeFour {
+				span {
+					&.text {
+						font-size: @font1 + 0.4em;
+						top: @width40 + 1%;
 					}
 				}
 			}
@@ -1187,20 +1627,6 @@ a.meanmenu-reveal {
 	float: left;
 	width: 100%;
 }
-
-// .mean-container .mean-nav ul li a {
-// 	display: block;
-// 	float: left;
-// 	width: 90%;
-// 	padding: 1em 5%;
-// 	margin: 0;
-// 	text-align: left;
-// 	color: #fff;
-// 	border-top: 1px solid #383838;
-// 	border-top: 1px solid rgba(255,255,255,0.5);
-// 	text-decoration: none;
-// 	text-transform: uppercase;
-// }
 
 .mean-container .mean-nav ul li li a {
 	width: 80%;

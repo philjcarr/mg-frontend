@@ -26,7 +26,10 @@
 
 <body>
 
-<header>
+<!-- Home Banne Start -->
+<div class="homeBanner">
+
+	<header>
 	<!-- Nav Start -->
 	<nav>
 		<!-- Nav Container Start -->
@@ -62,4 +65,4 @@
 		<!-- Nav Contaciner End -->
 	</nav>
 	<!-- Nav End -->
-</header>
+	</header>

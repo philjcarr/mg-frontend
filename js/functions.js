@@ -9,6 +9,7 @@ $(document).ready(function() {
 		timeout: 4000
 	});
 
+	//Navigation Bar
 	jQuery('header nav').meanmenu();
 
 
