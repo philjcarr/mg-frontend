@@ -81,7 +81,7 @@
 							<a href="#" title="FAQs">FAQs</a>
 						</li>
 						<li>
-							<a href="#" title="A to Z Music Business">A to Z Music Business</a>
+							<a href="#" title="A to Z of Music Business">A to Z of Music Business</a>
 						</li>
 					</ul>
 				</article>

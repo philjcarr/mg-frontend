@@ -10,6 +10,7 @@
 	<title>Music Gateway</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+	<link rel="icon" href="/favicon.ico" />
 	
 	<!-- The Grid - REMEMBER TO UPDATE WITH THE IE9 GRID FIXES - PUT THESE INTO THE GRID LESS FILE -->
 	<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
@@ -38,28 +39,24 @@
 					</a>
 					<ul>
 						<li>
-							<a href="/projects" title="Projects">Projects</a>
-						</li>
-						<li>
 							<a href="/how-it-works" title="How It Works">How It Works</a>
 						</li>
 						<li>
 							<a href="/features" title="Features">Features</a>
 						</li>
 						<li>
-							<a href="/find-talent-and-work" title="Find Talent &amp; Work">Find Talent &amp; Work</a>
-						</li>
+							<a href="/projects" title="Projects">Projects</a>
 						</li>
 						<li>
 							<a href="/blog" title="Blog">Blog</a>
 						</li>
 						<li>
-							<a href="/sign-up" title="Sign Up">Sign Up</a>
-						</li>
-						<li class="last">
 							<a href="/login" title="Login">Login</a>
 						</li>
-					</ul>                                     
+						<li class="last signUp">
+							<a href="/sign-up" title="Sign Up">Sign Up</a>
+						</li>
+					</ul>                                    
 				</div>
 			</div>
 		</div>

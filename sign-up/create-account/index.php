@@ -1,5 +1,5 @@
 <?php
-	include('../../includes/header.php');
+	include('../../includes/header-signup.php');
 ?>
 
 <!-- Container Start -->
@@ -20,7 +20,7 @@
 			<!-- Sign Up Box Start -->
 			<div class="createAccountBox">
 				<!-- Form Start -->
-				<form>
+				<form action="account-type/" method="">
 					<!-- Left Col Start -->
 					<div class="leftCol">
 						<fieldset>

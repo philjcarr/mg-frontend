@@ -21,9 +21,9 @@
 
 			<div class="howitworksHold">
 				<div class="col1">
-					<a href="/how-it-works/producers-and-remixers/" class="shapeOne" title="Producers">
+					<a href="/how-it-works/producers-and-remixers" class="shapeOne" title="Producers and Remixers">
 						<span class="icon">
-							<img src="/images/how-it-works/icons/producers.png" alt="Producers" />
+							<img src="/images/how-it-works/icons/producers.png" alt="Producers and Remixers" />
 						</span>
 						<span class="text">Producers</span>
 					</a>
