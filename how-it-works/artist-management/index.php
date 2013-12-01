@@ -6,7 +6,7 @@
 <div class="container-fluid">
 	<section class="row-fluid">
 		<div class="span12">
-			<h1 class="topHeading">Artist Managementttt</h1>
+			<h1 class="topHeading">Artist Management - jon</h1>
 		</div>
 	</section>
 </div>
