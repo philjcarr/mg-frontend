@@ -133,7 +133,6 @@
 
 <!-- jQuery -->
 <script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
-<!-- <script type="text/javascript" src="/js/less-1.4.1.min.js"></script> -->
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/slider.min.js"></script>
 <script type="text/javascript" src="/js/jquery.meanmenu.js"></script>
