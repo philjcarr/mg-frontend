@@ -10,13 +10,13 @@
 							<a href="#" title="Music Industry" class="heading">Music Industry</a>
 						</li>
 						<li>
-							<a href="#" title="Projects">Projects</a>
-						</li>
-						<li>
 							<a href="#" title="How It Works">How It Works</a>
 						</li>
 						<li>
 							<a href="#" title="Features">Features</a>
+						</li>
+						<li>
+							<a href="#" title="Projects">Projects</a>
 						</li>
 						<li>
 							<a href="#" title="Workspace">Workspace</a>
@@ -35,34 +35,6 @@
 				<article>
 					<ul>
 						<li>
-							<a href="#" title="Competitions" class="heading">Competitions</a>
-						</li>
-						<li>
-							<a href="#" title="Remix Todd Terry">Remix Todd Terry</a>
-						</li>
-						<li>
-							<a href="#" title="Remix Kariya">Remix Kariya</a>
-						</li>
-						<li>
-							<a href="#" title="Remix Reach &amp; Spin">Remix Reach &amp; Spin</a>
-						</li>
-						<li>
-							<a href="#" title="Remix Mount Rushmore">Remix Mount Rushmore</a>
-						</li>
-						<li>
-							<a href="#" title="Best Vocalist">Best Vocalist</a>
-						</li>
-						<li>
-							<a href="#" title="Best Live Act">Best Live Act</a>
-						</li>
-						<li>
-							<a href="#" title="Best Songwriter">Best Songwriter</a>
-						</li>
-					</ul>
-				</article>
-				<article>
-					<ul>
-						<li>
 							<a href="#" title="About Us" class="heading">About Us</a>
 						</li>
 						<li>
@@ -73,6 +45,9 @@
 						</li>
 						<li>
 							<a href="#" title="Partners">Partners</a>
+						</li>
+						<li>
+							<a href="#" title="Competitions">Competitions</a>
 						</li>
 						<li>
 							<a href="#" title="Blog">Blog</a>
