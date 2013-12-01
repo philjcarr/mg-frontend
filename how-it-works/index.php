@@ -7,7 +7,7 @@
 	<section class="row-fluid">
 		<div class="span12">
 			<h1 class="topHeading">How It Works</h1>
-			<h2 class="center">Which Music Area Interests you?</h2>
+			<h2 class="center">Which role best suits you?</h2>
 		</div>
 	</section>
 </div>
