@@ -413,7 +413,23 @@ h2 {
   	}
 }
 
+/* BANNER IMAGES */
 
+.featuresProfile {
+	background: #2b2523 url('../images/features-profile-banner.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 605px;
+  	width: 100%;
+  	display: block;
+  	position: relative;
+  	margin: @spaceThree + @spaceOne 0 0;
+}
+.featuresProfile-screens {
+	background: @cream;
+}
 
 /*  FORM STYLES  */
 
@@ -1116,7 +1132,78 @@ section {
 						}
 					}
 				}
-				
+			}
+			ul {
+				&.featuresIcons {
+					margin: @spaceTwo 0;
+					width: @width100;
+					float: @left;
+					display: block;
+					li {
+						float: @left;
+						text-align: center;
+						width: @width20;
+						a {
+							display: block;
+							width: @width100;
+							float: @left;
+							img {
+								text-align: center;
+								padding: 0 0 @spaceOne 0;
+							}
+							span {
+								width: @width100;
+								display: block;
+								font-family: @fontSig;
+								font-size: @font1-5;
+							}
+							&.profile {
+								color: #ef6e23;
+							}
+							&.projects {
+								color: #fcbf00;
+							}
+							&.workspace {
+								color: #b8cc00;
+							}
+							&.account {
+								color: #0093da;
+							}
+							&.security {
+								color: #bdb9b9;
+							}
+						}
+					}
+				}
+			}
+			.features-profileInner {
+				text-align: center;
+				padding: @spaceThree 0;
+				h2 {
+					color: @white;
+					font-size: @font3;
+					position: relative;
+					width: @width20 + 2%;
+					margin: 0 auto;
+					span {
+						position: absolute;
+						left: 6px;
+						top: 14px;
+					}
+				}
+				h3 {
+					color: @white;
+					padding-bottom: @spaceOne;
+				}
+				p {
+					color: @white;
+					width: @width70;
+					margin: 0 auto;
+				}
+			}
+			.features-profileScreens {
+				padding: 5em 0 0;
+				text-align: center;
 			}
 		}
 		.span9 {

@@ -27,7 +27,7 @@
 
 <body>
 
-<!-- Home Banne Start -->
+<!-- Home Banner Start -->
 <div class="homeBanner">
 
 	<header>

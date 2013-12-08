@@ -7,7 +7,7 @@
 	<section class="row-fluid">
 		<div class="span12">
 			<h1 class="topHeading">How It Works</h1>
-			<h2 class="center">Choose which role best describes you?</h2>
+			<h2 class="center">Choose which role best describes you</h2>
 		</div>
 	</section>
 </div>
