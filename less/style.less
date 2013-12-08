@@ -413,10 +413,10 @@ h2 {
   	}
 }
 
-/* BANNER IMAGES */
+/* BANNERS - FULL WIDTH */
 
 .featuresProfile {
-	background: #2b2523 url('../images/features-profile-banner.jpg') no-repeat center center fixed;
+	background: #2b2523 url('../images/features/features-profile-banner.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -430,6 +430,24 @@ h2 {
 .featuresProfile-screens {
 	background: @cream;
 }
+.featuresAccount {
+	background: #2b2523 url('../images/features/account-banner.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 500px;
+  	width: 100%;
+  	display: block;
+  	position: relative;
+  	margin: 0;
+}
+.signUpBanner {
+	background: @lightBlue;
+	margin: 4em 0 5em;
+}
+
+
 
 /*  FORM STYLES  */
 
@@ -1200,10 +1218,111 @@ section {
 					width: @width70;
 					margin: 0 auto;
 				}
+				&.workSpaceArea {
+					padding: 0;
+					h2 {
+						color: @darkBlue2;
+						width: @width20 + 8%;
+						span {
+							top: 17px;
+						}
+					}
+					p {
+						color: #454E5C;
+					}
+					.largeScreen {
+						padding: @spaceThree 0 0;
+						ul {
+							li {
+								width: @width100;
+								text-align: center;
+								padding: 0;
+							}
+						}
+					}
+				}
+				&.accountArea {
+					text-align: left;
+					h2 {
+						width: @width100;
+						padding-left: @spaceOneHalf;
+						margin: 0;
+					}
+					p {
+						margin: 0;
+						width: @width60;
+					}
+				}
 			}
 			.features-profileScreens {
 				padding: 5em 0 0;
 				text-align: center;
+			}
+			.featuresProject {
+				padding: 5em 0;
+				.left {
+					float: @left;
+					width: @width60;
+					display: block;
+					padding: 0 5em 0 0;
+					h2 {
+						font-size: @font3;
+						span {
+							padding-right: 0.3em;
+						}
+					}
+					a {
+						&.blueButton {
+							.lightBlueButton();
+							display: block;
+							width: @width40;
+							text-align: center;
+						}
+					}
+				}
+				.right {
+					float: @left;
+					width: @width40;
+					text-align: right;
+					display: block;
+					img {
+						margin: 5em 0 0;
+					}
+				}
+			}
+			.signUp-fullWidth {
+				padding: @spaceThree 0;
+				float: @left;
+				width: @width100;
+				display: block;
+				.left {
+					float: @left;
+					width: @width60;
+					display: block;
+					padding: 0 5em 0 0;
+					h3 {
+						color: @white;
+						font-size: @font2 + 0.5em;
+						padding-bottom: 0;
+					}
+					p {
+						color: @white;
+					}
+				}
+				.right {
+					float: @left;
+					width: @width40;
+					display: block;
+					a {
+						&.greenButton {
+							.greenButton();
+							width: @width100;
+							font-size: @font2;
+							text-align: center;
+							margin: @spaceHalf 0 0;
+						}
+					}
+				}
 			}
 		}
 		.span9 {
