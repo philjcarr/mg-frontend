@@ -63,7 +63,7 @@
 				<article>
 					<ul>
 						<li>
-							<a href="#" title="Get In Contact" class="heading">Get In Contact</a>
+							<a href="/contact" title="Get In Contact" class="heading">Get In Contact</a>
 						</li>
 						<li>
 							<a href="mailto:hello@musicgateway.net" title="hello@musicgateway.net">hello@musicgateway.net</a>

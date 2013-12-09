@@ -36,5 +36,14 @@ $(document).ready(function() {
 		return false;
 	});
 
+	//Scroll To Element On The Page 
+	var $root = $('html, body');
+	$('a').click(function() {
+	    $root.animate({
+	        scrollTop: $( $.attr(this, 'href') ).offset().top
+	    }, 1000);
+	    return false;
+	});
+
 });
 //Doc Ready End

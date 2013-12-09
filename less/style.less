@@ -422,7 +422,7 @@ h2 {
 	-o-background-size: cover;
 	background-size: cover;
 	min-height: 605px;
-  	width: 100%;
+  	width: @width100;
   	display: block;
   	position: relative;
   	margin: @spaceThree + @spaceOne 0 0;
@@ -437,7 +437,7 @@ h2 {
 	-o-background-size: cover;
 	background-size: cover;
 	min-height: 500px;
-  	width: 100%;
+  	width: @width100;
   	display: block;
   	position: relative;
   	margin: 0;
@@ -445,6 +445,18 @@ h2 {
 .signUpBanner {
 	background: @lightBlue;
 	margin: 4em 0 5em;
+}
+.contactBanner {
+	background: #2b2523 url('../images/contact-banner.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 469px;
+  	width: @width100;
+  	display: block;
+  	position: relative;
+  	margin: 0 0 @spaceThree + @spaceOne 0;
 }
 
 
@@ -459,7 +471,8 @@ form {
 			padding: 0 0 @spaceHalf;
 		}
 		input[type="text"],
-		input[type="password"] {
+		input[type="password"],
+		textarea {
 			width: 92%;
 			padding: 0.8em 1em;
 			border: 2px solid @lightGrey;
@@ -596,6 +609,17 @@ form {
 			left: 0;
 			z-index: -1;
 			background: @lightGrey;
+		}
+	}
+	&.contactPage {
+		fieldset {
+			padding: @spaceOne 0 @spaceHalf;
+			input[type="text"] {
+				width: @width60;
+			}
+			textarea {
+				min-height: 150px;
+			}
 		}
 	}
 	&.accountType {
@@ -1165,6 +1189,7 @@ section {
 							display: block;
 							width: @width100;
 							float: @left;
+							outline: none;
 							img {
 								text-align: center;
 								padding: 0 0 @spaceOne 0;
@@ -1324,6 +1349,30 @@ section {
 					}
 				}
 			}
+			.contactBanner-address {
+				background: @blue;
+				opacity: 0.8;
+				float: @left;
+				padding: @spaceThree @spaceTwo + 0.5em;
+				min-width: @width30;
+				margin: 9em 0 0;
+				.borderRadius4();
+				address {
+					h2 {
+						color: @white;
+						padding: 0 0 0.25em 0;
+					}
+					p, a {
+						color: @white;
+						padding: 0.25em 0;
+						font-family: @fontSig;
+					}
+					a {
+						text-decoration: underline;
+						padding: 0.25em 0 0;
+					}
+				}
+			}
 		}
 		.span9 {
 			.companyInner {
@@ -1428,6 +1477,29 @@ section {
 						&.buttonIcon {
 							width: @width100;
 						}
+					}
+				}
+			}
+		}
+		.span5 {
+			.twitterFeed {
+				background: @cream;
+				padding: @spaceTwo;
+				h3 {
+					font-family: @fontSig;
+					font-weight: 200;
+					span {
+						background: url('../images/twitter-bird.png') no-repeat 0 1px;
+						width: 20px;
+						height: 18px;
+						display: inline-block;
+						margin-left: @spaceHalf;
+					}
+				}
+				a {
+					&.blueButton {
+						.lightBlueButton();
+						margin: @spaceOne 0 0;
 					}
 				}
 			}

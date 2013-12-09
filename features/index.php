@@ -20,31 +20,31 @@
 			
 			<ul class="featuresIcons">
 				<li>
-					<a href="" class="profile" title="Profiles">
+					<a href="#profile" class="profile" title="Profiles">
 						<img src="/images/features/profile.png" alt="Profiles" />
 						<span>Profiles</span>
 					</a>
 				</li>
 				<li>
-					<a href="" class="projects" title="Projects">
+					<a href="#projects" class="projects" title="Projects">
 						<img src="/images/features/projects.png" alt="Projects" />
 						<span>Projects</span>
 					</a>
 				</li>
 				<li>
-					<a href="" class="workspace" title="Workspace">
+					<a href="#workspace" class="workspace" title="Workspace">
 						<img src="/images/features/workspace.png" alt="Workspace" />
 						<span>Workspace</span>
 					</a>
 				</li>
 				<li>
-					<a href="" class="account" title="Account">
+					<a href="#account" class="account" title="Account">
 						<img src="/images/features/account.png" alt="Account" />
 						<span>Account</span>
 					</a>
 				</li>
 				<li>
-					<a href="" class="security" title="Security">
+					<a href="#security" class="security" title="Security">
 						<img src="/images/features/security.png" alt="Security" />
 						<span>Security</span>
 					</a>
@@ -58,7 +58,7 @@
 <!-- Contaciner End -->
 
 <!-- Features Profile Banner Start -->
-<div class="featuresProfile">
+<div class="featuresProfile" id="profile">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
@@ -105,7 +105,7 @@
 <!-- Features Profile Screenshots End -->
 
 <!-- Features Project Start -->
-<div id="">
+<div id="projects">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
@@ -163,7 +163,7 @@
 <!-- Sign Up Banner End -->
 
 <!-- Features Workspace Start -->
-<div id="">
+<div id="workspace">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
@@ -196,7 +196,7 @@
 <!-- Features Workspace End -->
 
 <!-- Features Account Start -->
-<div class="featuresAccount">
+<div class="featuresAccount" id="account">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
