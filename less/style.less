@@ -1563,6 +1563,35 @@ section {
 						}
 					}
 				}
+				article {
+					margin-bottom: @spaceOne;
+					padding-top: @spaceTwo;
+					border-top: 1px solid #EEEFF0;
+					&.first {
+						border-top: 0 none;
+						padding-top: 0;
+					}
+					p {
+						&.strip {
+							margin: @spaceOne 0;
+							border-top: 1px solid #EEEFF0;
+							border-bottom: 1px solid #EEEFF0;
+							span {
+								&.tab {
+									padding: @spaceHalf @spaceOneHalf;
+									border-right: 1px solid #EEEFF0;
+									&.first {
+										padding-left: 0;
+									}
+								}
+								span {
+									font-weight: bold;
+									color: @blue;
+								}
+							}
+						}
+					}
+				}
 			}
 		}
 		.span6 {
