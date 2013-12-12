@@ -150,6 +150,12 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 	.borderRadius4();
 	.transition();
 }
+.backgroundCover(){
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
 /* ==================================================================================================================== */
 /* ! KEYFRAMES
@@ -417,10 +423,7 @@ h2 {
 
 .featuresProfile {
 	background: #2b2523 url('../images/features/features-profile-banner.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	.backgroundCover();
 	min-height: 605px;
   	width: @width100;
   	display: block;
@@ -432,10 +435,7 @@ h2 {
 }
 .featuresAccount {
 	background: #2b2523 url('../images/features/account-banner.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	.backgroundCover();
 	min-height: 500px;
   	width: @width100;
   	display: block;
@@ -445,18 +445,68 @@ h2 {
 .signUpBanner {
 	background: @lightBlue;
 	margin: 4em 0 5em;
+	&.forProjects {
+		margin: 0;
+	}
 }
 .contactBanner {
 	background: #2b2523 url('../images/contact-banner.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	.backgroundCover();
 	min-height: 469px;
   	width: @width100;
   	display: block;
   	position: relative;
   	margin: 0 0 @spaceThree + @spaceOne 0;
+}
+.projectArea {
+	display: block;
+	position: relative;
+	padding: 10em 0 0;
+	width: @width100;
+	&.freeProjects {
+		background: @white url('../images/projects/free-background.jpg') no-repeat;
+		min-height: 669px;
+		margin: @spaceOne 0 0;
+		.backgroundCover();
+	}
+	&.collabProjects {
+		background: @white url('../images/projects/collab-background.jpg') no-repeat;
+		min-height: 630px;
+		.backgroundCover();
+	}
+	&.onSpecProjects {
+		background: @white url('../images/projects/onspec-background.jpg') no-repeat;
+		min-height: 608px;
+		.backgroundCover();
+	}
+	&.masteringProjects {
+		background: @white url('../images/projects/mastering-background.jpg') no-repeat;
+		min-height: 625px;
+		.backgroundCover();
+	}
+	.leftText {
+		width: @width60;
+		float: @left;
+		&.text {
+			h2 {
+				padding-top: @spaceOne;
+			}
+			a {
+				&.greenButton {
+					display: block;
+					.greenButton();
+					width: @width30 + 5%;
+					text-align: center;
+					margin: @spaceOne 0;
+				}	
+			}
+		}
+	}
+	.rightImage {
+		width: @width40;
+		float: @left;
+		text-align: center;
+	}
 }
 
 
@@ -779,7 +829,7 @@ form {
 .howitworksHold {
 	float: @left;
 	width: @width100;
-	margin: @spaceTwo 0 0;
+	margin: @spaceTwo 0;
 	.col1,
 	.col2 {
 		width: @width40;
@@ -1218,6 +1268,55 @@ section {
 						}
 					}
 				}
+				&.projectNav {
+					display: block;
+					width: @width100;
+					li {
+						float: @left;
+						text-align: center;
+						width: @width20 + 5%;
+						a {
+							width: @width100;
+							display: block;
+							background: #f9f9f9;
+							padding: 0.7em 0;
+							font-size: @font1 + 0.5em;
+							font-weight: 200;
+							border-top: 1px solid #c5c2c2;
+							border-bottom: 1px solid #c5c2c2;
+							border-right: 1px solid #c5c2c2;
+							color: #858080;
+							font-family: @fontSig;
+							&:hover {
+								background: #ebebeb;
+							}
+							&.first {
+								border-radius: 5px 0 0 5px;
+								-webkit-border-radius: 5px 0 0 5px;
+								border-left: 1px solid #c5c2c2;
+								&.active {
+									border: 1px solid @lightBlue;;
+								}
+							}
+							&.last {
+								border-radius: 0 5px 5px 0;
+								-webkit-border-radius: 0 5px 5px 0;
+								&.active {
+									border: 1px solid @lightBlue;;
+								}
+							}
+							&.active {
+								background: @lightBlue;
+								border-top: 1px solid @lightBlue;
+								border-bottom: 1px solid @lightBlue;
+								border-right: 1px solid @lightBlue;
+								color: @white;
+								text-decoration: none;
+								outline: none;
+							}
+						}
+					}
+				}
 			}
 			.features-profileInner {
 				text-align: center;
@@ -1470,7 +1569,7 @@ section {
 			.loginBox {
 				.boxShadow();
 				padding: @spaceTwo;
-				margin: @spaceThree auto 0;
+				margin: @spaceThree auto;
 				width: @width80;
 				fieldset {
 					a {
@@ -1716,7 +1815,7 @@ section {
 
 footer {
 	background: @darkBlue3;
-	margin: @spaceThree 0 0;
+	// margin: @spaceThree 0 0;
 	article {
 		width: @width10 + 5%;
 		float: @left;

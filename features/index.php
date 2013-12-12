@@ -20,31 +20,31 @@
 			
 			<ul class="featuresIcons">
 				<li>
-					<a href="#profile" class="profile" title="Profiles">
+					<a href="#profile" class="profile anchor" title="Profiles">
 						<img src="/images/features/profile.png" alt="Profiles" />
 						<span>Profiles</span>
 					</a>
 				</li>
 				<li>
-					<a href="#projects" class="projects" title="Projects">
+					<a href="#projects" class="projects anchor" title="Projects">
 						<img src="/images/features/projects.png" alt="Projects" />
 						<span>Projects</span>
 					</a>
 				</li>
 				<li>
-					<a href="#workspace" class="workspace" title="Workspace">
+					<a href="#workspace" class="workspace anchor" title="Workspace">
 						<img src="/images/features/workspace.png" alt="Workspace" />
 						<span>Workspace</span>
 					</a>
 				</li>
 				<li>
-					<a href="#account" class="account" title="Account">
+					<a href="#account" class="account anchor" title="Account">
 						<img src="/images/features/account.png" alt="Account" />
 						<span>Account</span>
 					</a>
 				</li>
 				<li>
-					<a href="#security" class="security" title="Security">
+					<a href="#security" class="security anchor" title="Security">
 						<img src="/images/features/security.png" alt="Security" />
 						<span>Security</span>
 					</a>

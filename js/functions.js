@@ -11,7 +11,7 @@ $(document).ready(function() {
 	//Navigation Bar
 	jQuery('header nav').meanmenu();
 
-	//Sign Up Toggle
+	//Toggle Active
 	$(function() {
 		$(".currencyBox").click(function() {
 		  $(".currencyBox").removeClass("active");
@@ -20,6 +20,11 @@ $(document).ready(function() {
 		});
 		$(".subTypelink").click(function() {
 		  $(".subTypelink").removeClass("active");
+		  $(this).addClass("active");
+		  return false;
+		});
+		$(".projectLinks").click(function() {
+		  $(".projectLinks").removeClass("active");
 		  $(this).addClass("active");
 		  return false;
 		});
@@ -38,7 +43,7 @@ $(document).ready(function() {
 
 	//Scroll To Element On The Page 
 	var $root = $('html, body');
-	$('a').click(function() {
+	$('a.anchor').click(function() {
 	    $root.animate({
 	        scrollTop: $( $.attr(this, 'href') ).offset().top
 	    }, 1000);
