@@ -21,7 +21,7 @@
 			<!-- Project Navigation Start -->
 			<ul class="projectNav">
 				<li>
-					<a href="#free" class="anchor projectLinks first active" title="Free">Free</a>
+					<a href="#free" class="anchor projectLinks first active" title="Free">Hire A Pro</a>
 				</li>
 				<li>
 					<a href="#collaboration" class="anchor projectLinks" title="Collaboration">Collaboration</a>
@@ -48,10 +48,14 @@
 		<section class="row-fluid">
 			<div class="span12">
 				<div class="leftText text">
-					<h2>Free Projects</h2>
-					<p>Choose Type. Enter Details. We Notify. Choose Winner.</p>
-					<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
-					<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups &amp; connecting to new clients &amp; keeping that work CV up to scratch.</p>
+					<h2>Hire A Pro Project</h2>
+					<p>We have made hiring a pro hassle free and easy as and is ideal for hiring session musicians, singers and creating 
+					bespoke music.</p>
+					<p>This project is free to post and based on a fixed fee only. As a project owner you have control, simply issue your 
+						brief, and choose your budget range or leave it open and up to negotiation. We’ll then do the leg work to find the 
+						right person, saving you valuable time.</p>
+					<p>Remember it’s important to appreciate you get what you pay for, it’s not who has the lowest price, but who’s the 
+						right person for the job.</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 				<div class="rightImage">
@@ -75,10 +79,15 @@
 					<img src="/images/projects/collab-icon.png" alt="Collaboration Projects" />
 				</div>
 				<div class="leftText text">
-					<h2>Collaboration Projects</h2>
-					<p>Choose Type. Enter Details. We Notify. Choose Winner.</p>
-					<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
-					<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups &amp; connecting to new clients &amp; keeping that work CV up to scratch.</p>
+					<h2>Collaboration Project</h2>
+					<p>Creating music is a personal passion, but collaborating is a way of development, growth and being 
+					   inspired by other creatives.</p>
+					<p>Our collaboration projects are free to post and ideal for producers, composers, generally all creative roles. 
+						Collaborations aren't designed for user fees, so it's up to you to work out any terms between you, such as 
+						royalty splits and publishing.</p>
+					<p>To collaborate is to grow, by working with just one person doubles your potential for success, sharing skills, 
+						experience and connections. For example a songwriter won’t hear their song unless someone sings it, and a 
+						singer needs something to sing!</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 			</div>
@@ -98,8 +107,8 @@
 			<div class="span12">
 				<div class="signUp-fullWidth">
 					<div class="left">
-						<h3>Show The World Your Musical Talent Today!</h3>
-						<p>You never know what talent you could find...</p>
+						<h3>Connect with 1,000's of pros worldwide!</h3>
+						<p>Bring talent to your projects and be inspired...</p>
 					</div>
 					<div class="right">
 						<a href="/sign-up" title="Sign Up &amp; Create My Project" class="greenButton">Sign Up &amp; Create My Project</a>
@@ -120,10 +129,13 @@
 		<section class="row-fluid">
 			<div class="span12">
 				<div class="leftText text">
-					<h2>On Spec. Projects</h2>
-					<p>Choose Type. Enter Details. We Notify. Choose Winner.</p>
-					<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
-					<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups &amp; connecting to new clients &amp; keeping that work CV up to scratch.</p>
+					<h2>On Spec. Project</h2>
+					<p>On Spec projects add benefits to the project owner by reducing risk and by giving more control over the project 
+						outcome. They are great for remixes, vocal performances or production to a song.</p>
+					<p>As a project owner you can choose multiple users to supply work in advance of any guaranteed payment, only 
+						paying on fully accepted work. Additionally we include the option of setting a budget and or terms. </p>
+					<p>As a worker on an on spec project your benefits include opportunity of payment, valuable experience, music 
+						for your portfolio and feedback added to your profile.</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 				<div class="rightImage">
@@ -147,10 +159,14 @@
 					<img src="/images/projects/mastering-icon.png" alt="Mastering Projects" />
 				</div>
 				<div class="leftText text">
-					<h2>Mastering Projects</h2>
-					<p>Choose Type. Enter Details. We Notify. Choose Winner.</p>
-					<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
-					<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups &amp; connecting to new clients &amp; keeping that work CV up to scratch.</p>
+					<h2>Mastering Project</h2>
+					<p>Our mastering project lets you find the right studio to match your genre and budget but on a global scale. 
+						It's so straight forward. Simply detail your project, set your fixed fee budget range and that’s it we will 
+						put out your project for tender, sit back and watch the pitches roll in.</p>
+					<p>All projects get to use our secure online workspace. Here all files can be accessed and managed with added 
+						communication facilities, to make life easier we have put everything in one place. As a studio we want to 
+						maximise downtime and profitability with almost no effort. All you need to do is be registered and pitch 
+						on these projects, we will notify you of the jobs.</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 			</div>
