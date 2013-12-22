@@ -79,16 +79,16 @@
 						<div class="clear"></div>
 					</div>
 					<div class="subType left">
-						<a href="" title="Monthly" class="subTypelink active">
+						<a href="" title="Monthly" class="subTypelink">
 							<p class="top">Monthly</p>
 							<p class="totalAmmount">&pound;7.95</p>
-							<p class="last">Rolling, month by month</p>
+							<p class="last">Monthly - No Contract</p>
 						</a>
 					</div>
 					<div class="subType right">
-						<a href="" title="Annually" class="subTypelink">
+						<a href="" title="Annually" class="subTypelink active">
 							<p class="top">Annually</p>
-							<p class="totalAmmount">&pound;197.99</p>
+							<p class="totalAmmount">&pound;57.00</p>
 							<p class="last">Pay annually and save 40%</p>
 						</a>
 					</div>

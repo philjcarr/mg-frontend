@@ -67,49 +67,12 @@
 		<div class="span4">
 			<div class="rightCol">
 				<article class="first">
-					<h3>Sign up as a Artist Manager</h3>
-					<p>It’s totally <strong>FREE!</strong></p>
-					<a href="/sign-up" title="Sign Up" class="greenButton">Sign Up</a>
-				</article>
-				<article>
-					<ul>
-						<li class="first artists">
-							<a href="/how-it-works/artists" title="Artists" class="">Artists</a>
-						</li>
-						<li class="artistsManagement active">
-							<a href="/how-it-works/artist-management" title="Artist Management" class="">Artist Management</a>
-						</li>
-						<li class="bands">
-							<a href="/how-it-works/bands" title="Bands" class="">Bands</a>
-						</li>
-						<li class="mastering">
-							<a href="/how-it-works/mastering" title="Mastering" class="">Mastering</a>
-						</li>
-						<li class="musicians">
-							<a href="/how-it-works/musicians" title="Musicians" class="">Musicians</a>
-						</li>
-						<li class="producers">
-							<a href="/how-it-works/producers-and-remixers" title="Producers">Producers &amp; Remixers</a>
-						</li>
-						<li class="publishers">
-							<a href="/how-it-works/publishers" title="Publishers" class="">Publishers</a>
-						</li>
-						<li class="recordLabels">
-							<a href="/how-it-works/record-labels" title="Record Labels" class="">Record Labels</a>
-						</li>
-						<li class="songwriters">
-							<a href="/how-it-works/songwriters" title="Songwriters" class="">Songwriters</a>
-						</li>
-						<li class="studios">
-							<a href="/how-it-works/studios" title="Studios" class="">Studios</a>
-						</li>
-						<li class="vocalists">
-							<a href="/how-it-works/vocalists" title="Vocalists" class="">Vocalists</a>
-						</li>
-						<li class="industryServices">
-							<a href="/how-it-works/industry-services" title="Industry Services" class="">Industry Services</a>
-						</li>
-					</ul>
+					<h3>Never Miss A Post</h3>
+					<form action="" method="">
+						<fieldset>
+							<input type="text" id="email" name="email" tabindex="1" class="email withIcon" />
+						</fieldset>
+					</form>
 				</article>
 				<article class="testimonial">
 					<p class="comment">The alarming thing is, the mistakes that produce these regrets are all errors of omission. You forget your dreams, ignore your family, suppress your feelings, neglect your friends, and forget to be happy.”</p>

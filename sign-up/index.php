@@ -10,33 +10,66 @@
 		<section class="row-fluid">
 			<div class="span12">
 				
-				<h2 class="plansHeading">Honest Prices. No Surprises.</h2>
-				<p class="plansHeading-sub">No Contracts. No Hidden Fees</p>
-				
+				<h2 class="plansHeading">Choose Your Account Type.</h2>
+
 				<!-- Price Panel Start -->
 				<div class="pricePanel package packOne">
 					<div class="topSection">
 						<h3>Free</h3>
-						<h4>&pound;0/month</h4>
+						<h4>&pound;0/monthly</h4>
+						<h4 class="annual">&nbsp;</h4>
 					</div>
 					<div class="divideLine"><!-- Divide Line --></div>
 					<div class="middleSection">
 						<ul class="lightText center">
-							<li>1GB Storage</li>
-							<li>FREE Standard Project Pitching</li>
-							<li>FREE Collaboration Porject Pitching</li>
-							<li>&pound;49.95 On.Spec Project Pitching</li>
-							<li>FREE Mastering Project Pitching</li>
-							<li>&pound;4.95 Recieve Collaboration Fee</li>
-							<li>Standard Ranking Position</li>
-							<li>No Exclusive Work</li>
-							<li>11% Commision Fees</li>
-							<li>No Annual Discount</li>
-							<li>No Private Pitching</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">1GB</span>
+								Data Allowance
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">5</span>
+								Monthly Pitches
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">FREE</span>
+								Project Postings
+							</li>
+							<li>
+								<span class="cross"></span>
+								No Connection Fees
+							</li>
+							<li>
+								<span class="cross"></span>
+								Private Pitching
+							</li>
+							<li>
+								<span class="cross"></span>
+								Premium Ranking
+							</li>
+							<li>
+								<span class="cross"></span>
+								Featured Profile
+							</li>
+							<li>
+								<span class="cross"></span>
+								Exclusive Opportunities
+							</li>
+							<li>
+								<span class="cross"></span>
+								No Project Commision Fees
+							</li>
+							<li>
+								<span class="cross"></span>
+								<span class="bold"></span>
+								Premium Project Posting
+							</li>
 						</ul>
 					</div>
 					<div class="bottomSection">
-						<a href="create-account" title="Sign Up" class="blueButton">Sign Up</a>
+						<a href="create-account" title="Select Account" class="blueButton">Select Account</a>
 					</div>
 				</div>
 				<!-- Price Panel End -->
@@ -46,26 +79,60 @@
 					<div class="mostPopular">Most Popular</div>
 					<div class="topSection">
 						<h3>Pro Level</h3>
-						<h4>&pound;7.95/month</h4>
+						<h4>&pound;7.95/monthly</h4>
+						<h4 class="annual orange">&pound;57/annually <span>(Save 40%)</span></h4>
 					</div>
 					<div class="divideLine"><!-- Divide Line --></div>
 					<div class="middleSection">
-						<ul class="center">
-							<li>1GB Storage</li>
-							<li>FREE Standard Project Pitching</li>
-							<li>FREE Collaboration Porject Pitching</li>
-							<li>&pound;49.95 On.Spec Project Pitching</li>
-							<li>FREE Mastering Project Pitching</li>
-							<li>&pound;4.95 Recieve Collaboration Fee</li>
-							<li>Standard Ranking Position</li>
-							<li>No Exclusive Work</li>
-							<li>11% Commision Fees</li>
-							<li>No Annual Discount</li>
-							<li>No Private Pitching</li>
+						<ul class="lightText center">
+							<li>
+								<span class="tick"></span>
+								<span class="bold">5GB</span>
+								Data Allowance
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">25</span>
+								Monthly Pitches
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">FREE</span>
+								Project Postings
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">NO</span>
+								Connection Fees
+							</li>
+							<li>
+								<span class="tick"></span>
+								Private Pitching
+							</li>
+							<li>
+								<span class="tick"></span>
+								Premium Ranking
+							</li>
+							<li>
+								<span class="tick"></span>
+								Featured Profile
+							</li>
+							<li>
+								<span class="tick"></span>
+								Exclusive Opportunities
+							</li>
+							<li>
+								<span class="cross"></span>
+								Account	No Project Commision Fees
+							</li>
+							<li>
+								<span class="cross"></span>
+								FREE Premium Project Posting
+							</li>
 						</ul>
 					</div>
 					<div class="bottomSection">
-						<a href="create-account" title="Sign Up" class="orangeButton">Sign Up</a>
+						<a href="create-account" title="Select Account" class="orangeButton">Select Account</a>
 					</div>
 				</div>
 				<!-- Price Panel End -->
@@ -74,27 +141,63 @@
 				<div class="pricePanel package packThree">
 					<div class="topSection">
 						<h3>Pro Level Unlimited</h3>
-						<h4>&pound;14.95/month</h4>
+						<h4>&pound;14.95/monthly</h4>
+						<h4 class="annual green">&pound;90/annually <span>(Save 50%)</span></h4>
 					</div>
 					<div class="divideLine"><!-- Divide Line --></div>
 					<div class="middleSection">
-						<ul class="center">
-							<li>1GB Storage</li>
-							<li>FREE Standard Project Pitching</li>
-							<li>FREE Collaboration Porject Pitching</li>
-							<li>&pound;49.95 On.Spec Project Pitching</li>
-							<li>FREE Mastering Project Pitching</li>
-							<li>&pound;4.95 Recieve Collaboration Fee</li>
-							<li>Standard Ranking Position</li>
-							<li>No Exclusive Work</li>
-							<li>11% Commision Fees</li>
-							<li>No Annual Discount</li>
-							<li>No Private Pitching</li>
+						<ul class="lightText center">
+							<li>
+								<span class="tick"></span>
+								<span class="bold">UNLIMITED</span>
+								Data Allowance
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">UNLIMITED</span>
+								Monthly Pitches
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">FREE</span>
+								Project Postings
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">NO</span>
+								Connection Fees
+							</li>
+							<li>
+								<span class="tick"></span>
+								Private Pitching
+							</li>
+							<li>
+								<span class="tick"></span>
+								Premium Ranking
+							</li>
+							<li>
+								<span class="tick"></span>
+								Featured Profile
+							</li>
+							<li>
+								<span class="tick"></span>
+								Exclusive Opportunities
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">NO</span>
+								Project Commision Fees
+							</li>
+							<li>
+								<span class="tick"></span>
+								<span class="bold">FREE</span>
+								Premium Project Posting
+							</li>
 						</ul>
 						<div class="clear"><!-- Clear --></div>
 					</div>
 					<div class="bottomSection">
-						<a href="create-account" title="Sign Up" class="greenButton">Sign Up</a>
+						<a href="create-account" title="Select Account" class="greenButton">Select Account</a>
 					</div>
 				</div>
 				<!-- Price Panel End -->

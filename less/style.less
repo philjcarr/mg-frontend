@@ -39,8 +39,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 @font2: 2em;
 @font3: 3em;
 @font4: 4em;
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(http://fonts.googleapis.com/css?family=Signika:400,600,300);
+// @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+// @import url(http://fonts.googleapis.com/css?family=Signika:400,600,300);
 @fontSans: "Open Sans", sans-serif;
 @fontSig: "Signika", sans-serif;
 
@@ -58,6 +58,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 @grey: #8e959c;
 @lightGrey: #eeeff0;
 @red: #d2514a;
+@orange: #FB9D00;
 
 /* COLORS - HOW IT WORKS SHADES */
 @blue1: #3bb3ed;
@@ -812,7 +813,7 @@ form {
 		.signupBottom {
 			width: @width100;
 			border-top: 1px solid @lightGrey;
-			padding: @spaceTwo 0 0;
+			padding: @spaceThree 0;
 			text-align: center;
 			input[type="submit"]{
 				&.orangeButton {
@@ -989,15 +990,8 @@ section {
 					font-weight: 600;
 					color: @white;
 					font-size: @font2 + 0.5em;
-					padding: @spaceHalf 0 0;
+					padding: @spaceHalf 0 @spaceOne + 0.2em;
 				}	
-			}
-			p {
-				&.plansHeading-sub {
-					color: @white;
-					text-align: center;
-
-				}
 			}
 			.createAccountBox {
 				.boxShadow();
@@ -1111,9 +1105,21 @@ section {
 						font-family: @fontSans;
 						font-weight: 200;
 						display: block;
-						padding: 0.5em 0 0;
+						padding: 0.8em 0 0;
 						color: @grey;
 						font-size: @font1 + 0.4em;
+						&.annual {
+							padding: @spaceHalf 0 0;
+							span {
+								font-weight: bold;
+							}
+							&.orange {
+								color: @orange;
+							}
+							&.green {
+								color: @green;
+							}
+						}
 					}
 				}
 				.middleSection {
@@ -1126,10 +1132,34 @@ section {
 						}
 						&.center {
 							li {
-								text-align: center;
+								text-align: left;
+								position: relative;
+								padding-left: @spaceThree;
+								span {
+									&.tick {
+										display: inline-block;
+										background: url('../images/signup-tick.png') no-repeat;
+										width: 14px;
+										height: 13px;
+										position: absolute;
+										left: 9px;
+										top: 6px;
+									}
+									&.cross {
+										display: inline-block;
+										background: url('../images/signup-cross.png') no-repeat;
+										width: 13px;
+										height: 13px;
+										position: absolute;
+										left: 8px;
+										top: 7px;
+									}
+									&.bold {
+										font-weight: bold;
+										color: @darkBlue2;
+									}
+								}
 							}
-						}
-						li {
 						}
 					}
 				}
@@ -1635,6 +1665,11 @@ section {
 		.span4 {
 			.rightCol {
 				padding: @spaceTwo + 0.5em @spaceTwo + 0.5em @spaceTwo + 0.5em 0;
+				form {
+					fieldset {
+						padding: @spaceOneHalf 0 @spaceHalf;
+					}
+				}
 				article {
 					display: block;
 					padding: @spaceOne 0;
