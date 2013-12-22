@@ -273,9 +273,6 @@ ul {
   box-sizing: border-box;
 }
 
-
-
-
 /*  NAVIGATION  */
 nav {
 	background: @blue;
@@ -507,6 +504,35 @@ h2 {
 		width: @width40;
 		float: @left;
 		text-align: center;
+	}
+}
+.proLevelBanner {
+	background: url('../images/prolevel-graph.jpg') repeat-x left bottom;
+	display: block;
+	min-height: 247px;
+	text-align: center;
+	padding-top: @spaceTwo;
+	h1 {
+		background: url('../images/pro-level-logo.png') no-repeat;
+		width: 300px;
+		height: 83px;
+		margin: 0.25em auto;
+		display: block;
+		text-indent: -999em;
+		padding: 0;
+	}
+	h2 {
+		font-size: @font3;
+		padding-bottom: @spaceOne;
+	}
+	a {
+		&.greenButton {
+			.greenButton();
+			width: @width30;
+			text-align: center;
+			margin-bottom: 11em;
+			font-size: @font1-5;
+		}
 	}
 }
 
