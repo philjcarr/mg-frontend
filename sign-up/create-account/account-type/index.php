@@ -27,7 +27,7 @@
 				</div>
 				<div class="clear"></div>
 				<div class="col active">
-					<p>Create Username</p>
+					<p>Create User</p>
 				</div>
 				<div class="col active">
 					<p>Account Type</p>
@@ -50,12 +50,13 @@
 			<div class="span12">
 				<fieldset>
 					<div class="textArea">
-						<label for="">What currency would you like your account to be in?</label>
+						<label for="">Choose the currency for your account</label>
 						<div class="helpArea">
 							<a href="#" class="show" title="">What's This?</a>
 							<div class="slidingDiv">
 								<span class="arrow"><!-- Top Arrow --></span>
-								<p>Help text</p>
+								<p>Our website allows you to receive payments and supply your services to other 
+									users. Please select your local currency. If you are outside of Europe and the USA we recommend choosing US Dollars.</p>
 							</div>
 						</div>
 						<div class="clear"></div>
@@ -68,12 +69,13 @@
 				</fieldset>
 				<fieldset>
 					<div class="textArea">
-						<label for="">How would you like to pay for your ‘<span class="accountType">Pro Level</span>’ account?</label>
+						<label for="">Choose how would you like to pay for your ‘<span class="accountType">Pro Level</span>’ account</label>
 						<div class="helpArea">
 							<a href="#" class="show" title="">What's This?</a>
 							<div class="slidingDiv">
 								<span class="arrow"><!-- Top Arrow --></span>
-								<p>Help text</p>
+								<p>There is no contract for paying monthly and you can cancel at any time. You can benefit from our annual 
+									discount if you pay in advance, the choice is yours.</p>
 							</div>
 						</div>
 						<div class="clear"></div>
@@ -82,14 +84,14 @@
 						<a href="" title="Monthly" class="subTypelink">
 							<p class="top">Monthly</p>
 							<p class="totalAmmount">&pound;7.95</p>
-							<p class="last">Monthly - No Contract</p>
+							<p class="last">Rolling - No Contract</p>
 						</a>
 					</div>
 					<div class="subType right">
 						<a href="" title="Annually" class="subTypelink active">
 							<p class="top">Annually</p>
 							<p class="totalAmmount">&pound;57.00</p>
-							<p class="last">Pay annually and save 40%</p>
+							<p class="last">Pay in advance and save 40%</p>
 						</a>
 					</div>
 				</fieldset>
