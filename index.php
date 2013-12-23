@@ -13,7 +13,7 @@
 					<a href="/sign-up" title="Free Sign Up" class="orangeButton">Free Sign Up</a>
 				</div>
 				<div class="right">
-					<a href="/find-talent-and-work" title="Find Talent" class="greenButton">Find Talent</a>
+					<a href="/how-it-works" title="How It Works" class="greenButton">How It Works</a>
 				</div>
 				<div class="clear"></div>
 				<div class="buttonHold">

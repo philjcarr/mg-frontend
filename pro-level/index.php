@@ -1,17 +1,36 @@
 <?php
-	include('../includes/header.php');
+	include('../includes/header-prolevel.php');
 ?>
 
-
-<div class="proLevelBanner">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
-				<h1>Pro Level</h1>
+				<div class="pro-level-logo"></div>
 				<h2>Maximise Your Online Music Profile.</h2>
-				<a href="" title="Sign Up As A Pro Level Today" class="greenButton">Sign Up As A Pro Level Today</a>
+				<div class="left">
+					<a href="/sign-up" title="Sign Up As A Pro Level" class="orangeButton">Sign Up As A Pro Level</a>
+				</div>
+				<div class="right">
+					<a href="#benefits" title="What Are The Benefits?" class="greenButton anchor">What Are The Benefits?</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->
+</div>
+<!-- Pro Level Banner End -->
+
+<div class="introBanner">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<h2 class="proIntro" id="benefits">So what are the benefits?</h2>
 			</div>
 		</section>
 		<!-- Row End -->
@@ -19,25 +38,19 @@
 	<!-- Contaciner End -->
 </div>
 
-<div class="projectArea freeProjects" id="free">
+<div class="projectArea proLevel">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
 				<div class="leftText text">
-					<h2>Hire A Pro Project</h2>
-					<p>We have made hiring a pro hassle free and easy as and is ideal for hiring session musicians, singers and creating 
-					bespoke music.</p>
-					<p>This project is free to post and based on a fixed fee only. As a project owner you have control, simply issue your 
-						brief, and choose your budget range or leave it open and up to negotiation. We’ll then do the leg work to find the 
-						right person, saving you valuable time.</p>
-					<p>Remember it’s important to appreciate you get what you pay for, it’s not who has the lowest price, but who’s the 
-						right person for the job.</p>
+					<h2>Raised &amp; Featured Profiles throughout the site</h2>
+					<p>Text here</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 				<div class="rightImage">
-					<img src="/images/projects/free-icon.png" alt="Free Projects" />
+					<img src="/images/pro-level/icon1.jpg" alt="Raised &amp; Featured Profiles throughout the site" />
 				</div>
 			</div>
 		</section>
@@ -47,26 +60,41 @@
 </div>
 <div class="clear"></div>
 
-<div class="projectArea collabProjects" id="collaboration">
+<div class="projectArea proLevel">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
 				<div class="rightImage">
-					<img src="/images/projects/collab-icon.png" alt="Collaboration Projects" />
+					<img src="/images/pro-level/icon2.jpg" alt="Reduced / Zero one off fees and commission" />
 				</div>
 				<div class="leftText text">
 					<h2>Collaboration Project</h2>
-					<p>Creating music is a personal passion, but collaborating is a way of development, growth and being 
-					   inspired by other creatives.</p>
-					<p>Our collaboration projects are free to post and ideal for producers, composers, generally all creative roles. 
-						Collaborations aren't designed for user fees, so it's up to you to work out any terms between you, such as 
-						royalty splits and publishing.</p>
-					<p>To collaborate is to grow, by working with just one person doubles your potential for success, sharing skills, 
-						experience and connections. For example a songwriter won’t hear their song unless someone sings it, and a 
-						singer needs something to sing!</p>
+					<p>Text here</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->			
+</div>
+<div class="clear"></div>
+
+<div class="projectArea proLevel">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="leftText text">
+					<h2>Pitching - Featured positioning and private pitching</h2>
+					<p>Text here</p>
+					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+				</div>
+				<div class="rightImage">
+					<img src="/images/pro-level/icon3.jpg" alt="Pitching - Featured positioning and private pitching" />
 				</div>
 			</div>
 		</section>
@@ -100,24 +128,19 @@
 </div>
 <!-- Sign Up Banner End -->
 
-<div class="projectArea onSpecProjects" id="onSpec">
+<div class="projectArea proLevel">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
-				<div class="leftText text">
-					<h2>On Spec. Project</h2>
-					<p>On Spec projects add benefits to the project owner by reducing risk and by giving more control over the project 
-						outcome. They are great for remixes, vocal performances or production to a song.</p>
-					<p>As a project owner you can choose multiple users to supply work in advance of any guaranteed payment, only 
-						paying on fully accepted work. Additionally we include the option of setting a budget and or terms. </p>
-					<p>As a worker on an on spec project your benefits include opportunity of payment, valuable experience, music 
-						for your portfolio and feedback added to your profile.</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
-				</div>
 				<div class="rightImage">
-					<img src="/images/projects/onspec-icon.png" alt="On Spec. Projects" />
+					<img src="/images/pro-level/icon4.jpg" alt="Unlimited Pitch Allowance" />
+				</div>
+				<div class="leftText text">
+					<h2>Unlimited Pitch Allowance</h2>
+					<p>Text here</p>
+					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 			</div>
 		</section>
@@ -127,24 +150,40 @@
 </div>
 <div class="clear"></div>
 
-<div class="projectArea masteringProjects" id="mastering">
+<div class="projectArea proLevel">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="leftText text">
+					<h2>Exclusive Pro Level Only opportunities</h2>
+					<p>Text here</p>
+					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+				</div>
+				<div class="rightImage">
+					<img src="/images/pro-level/icon5.jpg" alt="Exclusive Pro Level Only opportunities" />
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->			
+</div>
+<div class="clear"></div>
+
+<div class="projectArea proLevel">
 	<!-- Container Start -->
 	<div class="container-fluid">
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
 				<div class="rightImage">
-					<img src="/images/projects/mastering-icon.png" alt="Mastering Projects" />
+					<img src="/images/pro-level/icon6.jpg" alt="Increased / Unlimited Data Allowance" />
 				</div>
 				<div class="leftText text">
-					<h2>Mastering Project</h2>
-					<p>Our mastering project lets you find the right studio to match your genre and budget but on a global scale. 
-						It's so straight forward. Simply detail your project, set your fixed fee budget range and that’s it we will 
-						put out your project for tender, sit back and watch the pitches roll in.</p>
-					<p>All projects get to use our secure online workspace. Here all files can be accessed and managed with added 
-						communication facilities, to make life easier we have put everything in one place. As a studio we want to 
-						maximise downtime and profitability with almost no effort. All you need to do is be registered and pitch 
-						on these projects, we will notify you of the jobs.</p>
+					<h2>Increased / Unlimited Data Allowance</h2>
+					<p>Text here</p>
 					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
 				</div>
 			</div>
@@ -154,6 +193,59 @@
 	<!-- Contaciner End -->			
 </div>
 <div class="clear"></div>
+
+<div class="projectArea proLevel">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="leftText text">
+					<h2>Direct contact - Free advice and support</h2>
+					<p>Text here</p>
+					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+				</div>
+				<div class="rightImage">
+					<img src="/images/pro-level/icon7.jpg" alt="Direct contact - Free advice and support" />
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->			
+</div>
+<div class="clear"></div>
+
+<!-- Sign Up Banner Start -->
+<div class="signUpBanner forProjects">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="signUp-fullWidth">
+					<div class="left">
+						<h3>Connect with 1,000's of pros worldwide!</h3>
+						<p>Bring talent to your projects and be inspired...</p>
+					</div>
+					<div class="right">
+						<a href="/sign-up" title="Sign Up &amp; Create My Project" class="greenButton">Sign Up &amp; Create My Project</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->
+</div>
+<!-- Sign Up Banner End -->
+
+
+
+
+
+
+
 
 
 <?php

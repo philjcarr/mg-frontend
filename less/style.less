@@ -349,6 +349,37 @@ h2 {
   	width: 100%;
   	display: block;
   	position: relative;
+  	&.proLevelbanner {
+  		background: #3bace2 url('../images/prolevel-banner.jpg') no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		height: 600px;
+	  	width: 100%;
+	  	display: block;
+	  	position: relative;
+	  	.pro-level-logo {
+	  		background: url('../images/pro-level-logo.png') no-repeat;
+			width: 300px;
+			height: 83px;
+			margin: 6em auto 0.25em;
+			display: block;
+			text-indent: -999em;
+			padding: 0;
+	  	}
+	  	.left,
+	  	.right {
+	  		a {
+	  			&.greenButton {
+	  				width: @width50 + 7%;
+	  			}
+	  			&.orangeButton {
+	  				width: @width50 + 7%;
+	  			}
+	  		}
+	  	}
+  	}
   	nav {
   		background: transparent;
   	}
@@ -416,6 +447,9 @@ h2 {
 	  	}
   	}
 }
+.introBanner {
+	background: @cream;
+}
 
 /* BANNERS - FULL WIDTH */
 
@@ -461,6 +495,10 @@ h2 {
 	position: relative;
 	padding: 10em 0 0;
 	width: @width100;
+	&.proLevel {
+		// margin-bottom: 5em;
+		padding: @spaceThree 0;
+	}
 	&.freeProjects {
 		background: @white url('../images/projects/free-background.jpg') no-repeat;
 		min-height: 669px;
@@ -506,37 +544,6 @@ h2 {
 		text-align: center;
 	}
 }
-.proLevelBanner {
-	background: url('../images/prolevel-graph.jpg') repeat-x left bottom;
-	display: block;
-	min-height: 247px;
-	text-align: center;
-	padding-top: @spaceTwo;
-	h1 {
-		background: url('../images/pro-level-logo.png') no-repeat;
-		width: 300px;
-		height: 83px;
-		margin: 0.25em auto;
-		display: block;
-		text-indent: -999em;
-		padding: 0;
-	}
-	h2 {
-		font-size: @font3;
-		padding-bottom: @spaceOne;
-	}
-	a {
-		&.greenButton {
-			.greenButton();
-			width: @width30;
-			text-align: center;
-			margin-bottom: 11em;
-			font-size: @font1-5;
-		}
-	}
-}
-
-
 
 /*  FORM STYLES  */
 
@@ -1017,7 +1024,14 @@ section {
 					color: @white;
 					font-size: @font2 + 0.5em;
 					padding: @spaceHalf 0 @spaceOne + 0.2em;
-				}	
+				}
+				&.proIntro {
+					color: @darkBlue2;
+					text-align: center;
+					font-weight: 200;
+					font-size: @font2 + 0.5em;
+					padding: @spaceOne + 0.2em 0;
+				}
 			}
 			.createAccountBox {
 				.boxShadow();
