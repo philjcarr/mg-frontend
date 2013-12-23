@@ -47,7 +47,7 @@
 				<div class="leftText text">
 					<h2>Raised &amp; Featured Profiles throughout the site</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 				<div class="rightImage">
 					<img src="/images/pro-level/icon1.jpg" alt="Raised &amp; Featured Profiles throughout the site" />
@@ -72,7 +72,7 @@
 				<div class="leftText text">
 					<h2>Collaboration Project</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 			</div>
 		</section>
@@ -91,7 +91,7 @@
 				<div class="leftText text">
 					<h2>Pitching - Featured positioning and private pitching</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 				<div class="rightImage">
 					<img src="/images/pro-level/icon3.jpg" alt="Pitching - Featured positioning and private pitching" />
@@ -140,7 +140,7 @@
 				<div class="leftText text">
 					<h2>Unlimited Pitch Allowance</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 			</div>
 		</section>
@@ -159,7 +159,7 @@
 				<div class="leftText text">
 					<h2>Exclusive Pro Level Only opportunities</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 				<div class="rightImage">
 					<img src="/images/pro-level/icon5.jpg" alt="Exclusive Pro Level Only opportunities" />
@@ -184,7 +184,7 @@
 				<div class="leftText text">
 					<h2>Increased / Unlimited Data Allowance</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 			</div>
 		</section>
@@ -203,7 +203,7 @@
 				<div class="leftText text">
 					<h2>Direct contact - Free advice and support</h2>
 					<p>Text here</p>
-					<a href="#" title="Watch The Video" class="greenButton">Watch The Video</a>
+					
 				</div>
 				<div class="rightImage">
 					<img src="/images/pro-level/icon7.jpg" alt="Direct contact - Free advice and support" />
