@@ -48,7 +48,7 @@
 				<div class="clear"><!-- Clear --></div>
 				<div class="signUp">
 					<h3>Create your account today</h3>
-					<p>It’s totally <strong>FREE!</strong></p>
+					<p>It's totally <strong>FREE!</strong></p>
 					<a href="/sign-up" title="Sign Up" class="greenButton">Sign Up</a>
 				</div>
 			</aside>
@@ -62,45 +62,48 @@
 				<article>
 					<img src="/images/about-us/logo1.jpg" alt="" />
 				</article>
+				<h3>What Is Music Gateway?</h3>
+				<p>
+					Music Gateway is a unique business platform that was created by experienced musicians and industry 
+					professionals in order to create an influx of work opportunities for others within the music world. 
+					We have developed Music Gateway as an all-in-one platform to fulfil your needs. Whether you’re just 
+					starting out or a seasoned pro, this service was created for you.
+				</p>
+				<p>
+					Imagine a dating site but matching music industry roles and services. Users create a project and 
+					define their needs. We match the details to user profiles and issue notifications. Users pitch for 
+					the opportunity, get pre-qualified and then chosen by the project owner. Projects are how people 
+					get connected.
+				</p>
+				<h3>Our Mission</h3>
+				<p>
+					We aim to empower music industry professionals and help further their careers. Our platform will 
+					become the environment in which talented musicians thrive, creating a level playing-field for those 
+					that can provide what others are in need of. We will change the backbone of the industry for the 
+					better with equal opportunities via our unique platform.
+				</p>
+				<p>
+					Music Gateway connects the talent to the projects. Developed by musicians, for musicians, we help 
+					break down barriers that hinder career development by empowering individuals and companies alike. 
+					We provide a global business platform for professionals and aspiring pros to find session work, 
+					collaborate and seek out the right talent that meets the needs of their own projects. Music Gateway 
+					removes time consuming legwork and offers security, unique tools and multiple work opportunities.
+				</p>
+				<p>
+					<strong>To be creative is to be connected.</strong> Music Gateway, get registered and take control.
+				</p>
+				<p>
+				"For me, it's important to remember that making music is what drives us and millions of other people 
+				each and every day, with the help of my team and platform, we will help make that journey a damn sight easier."
+				<strong>Jon Skinner - Founder &amp; CEO</strong>
+				</p> 
+				<p>
+				"I really believe that I and the team have created a great and easy to use web platform for the music industry, 
+				we hope you agree :)" <strong>Phil Carr - Creative Director</strong>
+				<p>
+				</p>
+			</p>
 
-				<p>
-					You’re a producer, you want to earn money, get hired and match your music with client needs.
-					Well that is exactly what we do! We stream line the way you make connections and receive work 
-					from singers, artists &amp; bands around the world, together with publishers and record labels 
-					looking to sign high quality production music.
-				</p>
-				<h3>Remixers &amp; Remix work</h3>
-				<p>
-					We have a wealth of remix work provided from a host of established Record Labels around the 
-					world and direct from independent artists, some of these include xxxxxxxxxx
-				</p>
-				<h3>Collaborate &amp; Co-write</h3>
-				<p>
-					As Producers, using our Collaboration Project type allows you to co-write and work with 
-					likeminded professionals on agreed terms.
-				</p>
-				<h3>How can I utilize my existing music &amp; productions?</h3>
-				<p>
-					If you own the master rights you can use our Collaboration Project type to match your music 
-					with other users needs. We also have a number of Publishers regularly looking for music to sign, 
-					so boot up those hard drives, as you can monetize any existing works through Music Gateway.
-				</p>
-				<h3>How does it work?</h3>
-				<ul class="funkyBullet">
-					<li>Once registered for free you set up your industry profile</li>
-					<li>Users post projects, defining their project need</li>
-					<li>We notify you of relevant project work</li>
-					<li>You review and PITCH (tender) for the work</li>
-				</ul>
-				<p>
-					Only if you secure the work will we charge an 11% commission on 
-					fixed free work or a small connection fee if you are collaborating.
-				</p>
-				<p>
-					Music Gateway is 100% free until the point you receive paid project work or a beneficial 
-					connection when collaborating. There are no hidden charges, posting projects are free* 
-					and we never take any form of royalty or publishing percentage whatsoever.
-				</p>
 			</div>
 			<!-- Company Inner End -->
 		</div>

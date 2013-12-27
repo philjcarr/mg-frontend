@@ -21,11 +21,11 @@
 			<div class="span12">
 				<div class="contactBanner-address">
 					<address>
-						<h2>Music Gateway</h2>
-						<p>16 Bretton</p>
-						<p>Burgess Hill</p>
-						<p>West Sussex</p>
-						<p>RH15 8TQ</p>
+						<h2>Co. Registered Address</h2>
+						<p>8 Mount Rise</p>
+						<p>Meadvale</p>
+						<p>Redhill, Surrey</p>
+						<p>RH1 6JY UK</p>
 						<a href="mailto:hello@musicgateway.net" title="hello@musicgateway.net">hello@musicgateway.net</a>
 					</address>
 				</div>

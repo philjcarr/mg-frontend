@@ -86,7 +86,7 @@
 					<div class="staff">
 						<img src="/images/meet-the-team/clare.jpg" title="Clare Knight - Marketing Assistance" />
 						<h4>Clare Knight</h4>
-						<p>Marketing Assistance</p>
+						<p>Marketing Manager</p>
 					</div>
 				</div>
 
