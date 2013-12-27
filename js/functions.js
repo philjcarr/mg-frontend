@@ -50,5 +50,18 @@ $(document).ready(function() {
 	    return false;
 	});
 
+	//Accordion
+    var link = $(".accordion a");
+    link.on('click', function(e) {
+        e.preventDefault();
+        var a = $(this).attr("href");
+        $(a).slideDown(300);
+        $(".accordion div").not(a).slideUp(300);
+    });
+    $('.accorLink').click(function() {
+        $('.accorLink').removeClass('active');    
+        $(this).addClass('active');
+    }); 
+
 });
 //Doc Ready End

@@ -7,57 +7,58 @@
 				<article>
 					<ul>
 						<li>
-							<a href="#" title="Music Industry" class="heading">Music Industry</a>
+							<a href="/" title="Music Industry" class="heading">Music Industry</a>
 						</li>
 						<li>
-							<a href="#" title="How It Works">How It Works</a>
+							<a href="/how-it-works" title="How It Works">How It Works</a>
 						</li>
 						<li>
-							<a href="#" title="Features">Features</a>
+							<a href="/features" title="Features">Features</a>
 						</li>
 						<li>
-							<a href="#" title="Projects">Projects</a>
+							<a href="/projects" title="Projects">Projects</a>
 						</li>
 						<li>
-							<a href="#" title="Workspace">Workspace</a>
+							<a href="/pro-level" title="Pro Level">Pro Level</a>
 						</li>
 						<li>
-							<a href="#" title="Account">Account</a>
+							<a href="/blog" title="Blog">Blog</a>
 						</li>
 						<li>
-							<a href="#" title="Sign Up">Sign Up</a>
+							<a href="/login" title="Login">Login</a>
 						</li>
 						<li>
-							<a href="#" title="Login">Login</a>
+							<a href="/sign-up" title="Sign Up">Sign Up</a>
 						</li>
 					</ul>
 				</article>
 				<article>
 					<ul>
 						<li>
-							<a href="#" title="About Us" class="heading">About Us</a>
+							<a href="/about-us" title="About Us" class="heading">About Us</a>
 						</li>
 						<li>
-							<a href="#" title="Contact Us">Contact Us</a>
+							<a href="/about-us/meet-the-team" title="Contact Us">Meet The Team</a>
 						</li>
 						<li>
-							<a href="#" title="Media">Media</a>
+							<a href="/about-us/jobs" title="Contact Us">Jobs</a>
 						</li>
 						<li>
-							<a href="#" title="Partners">Partners</a>
+							<a href="/partners" title="Partners">Partners</a>
 						</li>
 						<li>
-							<a href="#" title="Competitions">Competitions</a>
+							<a href="press-and-media" title="Press &amp; Media">Press &amp; Media</a>
 						</li>
 						<li>
-							<a href="#" title="Blog">Blog</a>
+							<a href="/faqs" title="FAQs">FAQs</a>
 						</li>
 						<li>
-							<a href="#" title="FAQs">FAQs</a>
+							<a href="/about-us/a-to-z-of-music-business" title="A to Z of Music Business">A to Z of Music Business</a>
 						</li>
 						<li>
-							<a href="#" title="A to Z of Music Business">A to Z of Music Business</a>
+							<a href="/competitions" title="Competitions">Competitions</a>
 						</li>
+						
 					</ul>
 				</article>
 				<article>

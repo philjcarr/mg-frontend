@@ -14,12 +14,12 @@
 							<span><!-- Arrow --></span>
 						</a>
 					</li>
-					<li>
+					<li class="active">
 						<a href="/about-us/meet-the-team" class="" alt="Meet The Team">Meet The Team
 							<span><!-- Arrow --></span>
 						</a>
 					</li>
-					<li class="active">
+					<li>
 						<a href="/about-us/jobs" class="" alt="Jobs">Jobs
 							<span><!-- Arrow --></span>
 						</a>
@@ -56,24 +56,41 @@
 		<div class="span9 last">
 			<!-- Company Inner Start -->
 			<div class="companyInner">
-				<h1>Jobs</h1>
-				<h2>Would you like to work at Music Gateway?</h2>
-
-				<div class="jobBox first">
-					<h4>Web Developer (Backend)</h4>
-					<p class="location">Brighton, UK</p>
-					<p><strong>PHP, MySQL, JS / Knockout JS</strong></p>
-					<p>We're looking for an awesome backend web developer. If you want to be part of a new, innovative and creative web team, please send your CV to us by click the Apply Now button</p>
-					<a href="mailto:jobs@musicgateway.net?subject=Backend Web Developer Job at Music Gateway" class="greenButton" title="Apply Now">Apply Now</a>
+				<h1>Meet The Team</h1>
+				
+				<div class="teamMembers">
+					<div class="staff">
+						<img src="/images/meet-the-team/jon.jpg" title="Jon Skinner - Founder &amp; CEO" />
+						<h4>Jon Skinner</h4>
+						<p>Founder &amp; CEO</p>
+					</div>
+					<div class="staff">
+						<img src="/images/meet-the-team/phil.jpg" title="Phil Carr - Creative Director" />
+						<h4>Phil Carr</h4>
+						<p>Creative Director</p>
+					</div>
+					<div class="staff last">
+						<img src="/images/meet-the-team/nik.jpg" title="Nick Barnham - Head of IT" />
+						<h4>Nick Barnham</h4>
+						<p>Head of IT</p>
+					</div>
 				</div>
 
-				<div class="jobBox first">
-					<h4>Web Developer (Frontend)</h4>
-					<p class="location">Brighton, UK</p>
-					<p><strong>HTML, CSS &amp; jQuery</strong></p>
-					<p>We're looking for an awesome frontend web developer. If you want to be part of a new, innovative and creative web team, please send your CV to us by click the Apply Now button</p>
-					<a href="mailto:jobs@musicgateway.net?subject=Frontend Web Developer Job at Music Gateway" class="greenButton" title="Apply Now">Apply Now</a>
+
+				<div class="teamMembers">
+					<div class="staff">
+						<img src="/images/meet-the-team/phil.jpg" title="Jonathan Bond - Content Manager" />
+						<h4>Jonathan Bond</h4>
+						<p>Content Manager</p>
+					</div>
+					<div class="staff">
+						<img src="/images/meet-the-team/clare.jpg" title="Clare Knight - Marketing Assistance" />
+						<h4>Clare Knight</h4>
+						<p>Marketing Assistance</p>
+					</div>
 				</div>
+
+				
 
 			</div>
 			<!-- Company Inner End -->

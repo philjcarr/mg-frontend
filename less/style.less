@@ -39,8 +39,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 @font2: 2em;
 @font3: 3em;
 @font4: 4em;
-// @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-// @import url(http://fonts.googleapis.com/css?family=Signika:400,600,300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+@import url(http://fonts.googleapis.com/css?family=Signika:400,600,300);
 @fontSans: "Open Sans", sans-serif;
 @fontSig: "Signika", sans-serif;
 
@@ -544,6 +544,72 @@ h2 {
 		text-align: center;
 	}
 }
+.howitworksPanel {
+	background: @cream;
+	padding: @spaceThree + @spaceOne 0;
+	text-align: center;
+}
+.whatisMG {
+	background: @lightBlue;
+	padding: @spaceThree + @spaceOne 0;
+	text-align: center;
+}
+
+/* ACCORDION */
+
+.accordion {
+	a {
+		&.accorLink {
+			display: block;
+			font-family: @fontSig;
+		    font-size: 1.2em;
+		    color: #454e5c;
+		    border-top: 1px solid @lightGrey;
+		    padding: @spaceOneHalf 6em @spaceOneHalf 0;
+		    outline: none;
+		    text-decoration: none;
+		    position: relative;
+		    font-weight: 200;
+		    &.first {
+		    	border-top: 0 none;
+		    }
+		}
+		span {
+			&.arrow {
+				position: absolute;
+				right: 28px;
+				top: 21px;
+				background: url('/images/accordion-up.png') no-repeat;
+				width: 22px;
+				height: 25px;
+				display: block;
+			}
+		}
+		&.active {
+			color: @lightBlue;
+			span {
+				&.arrow {
+					position: absolute;
+					right: 26px;
+					top: 25px;
+					background: url('/images/accordion-down.png') no-repeat;
+					width: 25px;
+					height: 22px;
+					display: block;
+				}
+			}
+		}
+	}
+	div {
+		display: none;
+		padding-bottom: @spaceOne;
+		p {
+			color: #949698;
+			font-family: @fontSans;
+			font-weight: @font9;
+		}
+	}
+}
 
 /*  FORM STYLES  */
 
@@ -557,13 +623,14 @@ form {
 		input[type="text"],
 		input[type="password"],
 		textarea {
-			width: 92%;
+			width: 100%;
 			padding: 0.8em 1em;
 			border: 2px solid @lightGrey;
 			box-shadow: 0 0 0;
 			color: #999;
 			letter-spacing: 1px;
 			font-style: @fontSans;
+			height: 49px;
 			&:focus {
 				border: 2px solid @blue;
 				box-shadow: 0 0 0;
@@ -1031,6 +1098,52 @@ section {
 					font-weight: 200;
 					font-size: @font2 + 0.5em;
 					padding: @spaceOne + 0.2em 0;
+				}
+			}
+			.homeFeature {
+				text-align: center;
+				a {
+					&.greenButton {
+						display: block;
+						.greenButton();
+						width: @width30;
+						margin: @spaceTwo 0 @spaceThree;
+						font-size: @font1-5;
+					}
+				}
+			}
+			.worksHomeinner {
+				a {
+					&.homeVideo {
+						text-align: center;
+						display: block;
+					}
+					&.greenButton {
+						display: block;
+						.greenButton();
+						width: @width30;
+						margin: @spaceThree 0 0;
+						font-size: @font1-5;
+					}
+				}
+			}
+			.whatisMG-inner {
+				.MGlogo {
+					min-height: 169px;
+					text-align: center;
+					padding-bottom: @spaceOne;
+				}
+				h3 {
+					color: @white;
+					font-size: @font2 + 0.5em;
+				}
+				p {
+					color: @white;
+					font-family: @fontSans;
+					line-height: 29px;
+					font-size: @font1 + 0.1em;
+					width: @width70;
+					margin: 0 auto;
 				}
 			}
 			.createAccountBox {
@@ -1561,6 +1674,28 @@ section {
 						padding: 0 0 @spaceOneHalf 0;
 					}
 				}
+				.teamMembers {
+					float: @left;
+					width: @width100;
+					padding: @spaceTwo 0;
+					.staff {
+						float: @left;
+						width: @width30;
+						display: block;
+						text-align: center;
+						margin-right: 5%;
+						&.last {
+							margin-right: 0;
+						}
+						h4 {
+							font-size: @font2;
+							padding-bottom: 0;
+						}
+						p {
+							padding: 0;
+						}
+					}
+				}
 				.jobBox {
 					background: #F3F4F5;
 					padding: 1em;
@@ -1658,6 +1793,21 @@ section {
 									font-weight: bold;
 									color: @blue;
 								}
+							}
+						}
+					}
+					&.blogPost {
+						h2 {
+							line-height: 32px;}
+					}
+					.blogContent {
+						img {
+							text-align: center;
+						}
+						a {
+							&.greenButton {
+								.greenButton();
+								margin: @spaceOne 0;
 							}
 						}
 					}

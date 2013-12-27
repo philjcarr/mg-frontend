@@ -17,7 +17,6 @@
 	<!-- Row Start -->
 	<section class="row-fluid">
 		<div class="span12">
-			
 			<ul class="featuresIcons">
 				<li>
 					<a href="#profile" class="profile anchor" title="Profiles">
@@ -50,7 +49,6 @@
 					</a>
 				</li>
 			</ul>
-
 		</div>
 	</section>
 	<!-- Row End -->

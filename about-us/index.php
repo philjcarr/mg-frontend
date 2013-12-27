@@ -40,7 +40,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="a-to-z-of-music-business" class="last " alt="A to Z of Music Business">A to Z of Music Business
+						<a href="/a-to-z-of-music-business" class="last " alt="A to Z of Music Business">A to Z of Music Business
 							<span><!-- Arrow --></span>
 						</a>
 					</li>
@@ -60,7 +60,7 @@
 				<h2>The music industry has a new friend</h2>
 
 				<article>
-					<img src="/images/how-it-works/producers/djrap.png" alt="" />
+					<img src="/images/about-us/logo1.jpg" alt="" />
 				</article>
 
 				<p>

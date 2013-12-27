@@ -30,34 +30,30 @@
 		<div class="span8">
 			<div class="leftCol">
 				
-				<article class="first">
-					<h2>Heading</h2>
+				<article class="first blogPost">
+					<h2>First Record Label Release ‘Somebody to Love’ made Possible Entirely through our Platform!</h2>
 					<p class="strip">
 						<span class="tab first date">14 January 2014</span>
 						<span class="tab author">By <span>Phil Carr</span></span>
 						<span class="tab comment"><span>10</span> Comments</span>
 					</p>
-					<p>blog intro text...</p>
+					<div class="blogContent">
+						<p>We can’t help but stress the importance of collaboration within the music industry. It’s one of the main reasons why Music Gateway was created and we have been using our own platform too. In-case you didn’t know we are also a record label and our yet to be released first record was made possible entirely through our site. So we hope this will show you the power of collaboration through our site!</p>
+						<a href="#" class="greenButton" title="Read Blog Post">Read Blog Post</a>
+					</div>
 				</article>
 
-				<article>
-					<h2>Heading</h2>
+				<article class="blogPost">
+					<h2>First Record Label Release ‘Somebody to Love’ made Possible Entirely through our Platform!</h2>
 					<p class="strip">
 						<span class="tab first date">14 January 2014</span>
 						<span class="tab author">By <span>Phil Carr</span></span>
 						<span class="tab comment"><span>10</span> Comments</span>
 					</p>
-					<p>blog intro text...</p>
-				</article>
-
-				<article>
-					<h2>Heading</h2>
-					<p class="strip">
-						<span class="tab first date">14 January 2014</span>
-						<span class="tab author">By <span>Phil Carr</span></span>
-						<span class="tab comment"><span>10</span> Comments</span>
-					</p>
-					<p>blog intro text...</p>
+					<div class="blogContent">
+						<p>We can’t help but stress the importance of collaboration within the music industry. It’s one of the main reasons why Music Gateway was created and we have been using our own platform too. In-case you didn’t know we are also a record label and our yet to be released first record was made possible entirely through our site. So we hope this will show you the power of collaboration through our site!</p>
+						<a href="#" class="greenButton" title="Read Blog Post">Read Blog Post</a>
+					</div>
 				</article>
 				
 			</div>
@@ -67,10 +63,18 @@
 		<div class="span4">
 			<div class="rightCol">
 				<article class="first">
+					<h3>Search</h3>
+					<form action="" method="">
+						<fieldset>
+							<input type="text" id="search" name="search" tabindex="1" placeholder="Search for a blog post..." />
+						</fieldset>
+					</form>
+				</article>
+				<article>
 					<h3>Never Miss A Post</h3>
 					<form action="" method="">
 						<fieldset>
-							<input type="text" id="email" name="email" tabindex="1" class="email withIcon" />
+							<input type="text" id="email" name="email" tabindex="2" class="email withIcon" />
 						</fieldset>
 					</form>
 				</article>
