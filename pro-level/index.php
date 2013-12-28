@@ -10,10 +10,10 @@
 				<div class="pro-level-logo"></div>
 				<h2>Maximise Your Career Potential</h2>
 				<div class="left">
-					<a href="/sign-up" title="Sign Up As A Pro Level" class="orangeButton">Sign Up For Pro Account</a>
+					<a href="/sign-up" title="Create Pro Account" class="orangeButton">Create Pro Account</a>
 				</div>
 				<div class="right">
-					<a href="#benefits" title="What Are The Benefits?" class="greenButton anchor">Tell Me More</a>
+					<a href="#benefits" title="Tell Me More" class="greenButton anchor">Tell Me More</a>
 				</div>
 				<div class="clear"></div>
 			</div>

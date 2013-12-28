@@ -8,9 +8,9 @@
 		<section class="row-fluid">
 			<div class="span12">
 				<h1 class="#intro">Connecting Music Professionals</h1>
-				<h2>Find Talent, Find Session Work &amp; Collaborate Worldwide</h2>
+				<h2>Helping you conduct business and find talent worldwide</h2>
 				<div class="left">
-					<a href="/sign-up" title="Free Sign Up" class="orangeButton">Free Sign Up</a>
+					<a href="/sign-up" title="Get Started" class="orangeButton">Get Started</a>
 				</div>
 				<div class="right">
 					<a href="/how-it-works" title="How It Works" class="greenButton">How It Works</a>
@@ -60,12 +60,41 @@
 </div>
 <!-- How It Works Panel End -->
 
+<!-- What Is Music Gateway Start -->
+<div class="whatisMG">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="whatisMG-inner">
+					<div class="MGlogo">
+						<img src="/images/what-is-logo.png" alt="Music Gateway" />
+					</div>
+					<h3>What is Music Gateway?</h3>
+					<p> We are a global business platform that streamlines the way music pros connect and conduct business around the world. 
+						We are NOT another social network, it’s not a numbers game for us; we believe in quality over quantity. We deliver 
+						opportunities by empowering individuals and companies to manage their projects through our secure portal. Our 
+						industry specific project types save time and allow you to make targeted goal driven connections, bringing talent 
+						to your projects. </p>
+					<p> Our cutting edge features and functionality allow you to provide services to likeminded pros; equally you can hire 
+						and collaborate with others to develop your music and further your career. If you're passionate and dedicated to 
+						your career then join thousands of industry pros already registered on Music Gateway.</p> 
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->
+</div>
+<!-- What Is Music Gateway End -
+
 <!-- Container Start -->
 <div class="container-fluid">
 	<!-- Row Start -->
 	<section class="row-fluid">
 		<div class="span12">
-			<h2 class="proIntro">Trusted &amp; loved by over <strong>10,000</strong> musicians worldwide.</h2>
+			<h2 class="proIntro">Trusted by <strong>thousands</strong> of industry professionals worldwide.</h2>
 		</div>
 	</section>
 	<!-- Row End -->
@@ -117,31 +146,10 @@
 	</section>
 	<!-- Row End -->
 </div>
-<!-- Contaciner End -->
+<!-- Container End -->
 <!-- Features Panel End -->
 
-<!-- What Is Music Gateway Start -->
-<div class="whatisMG">
-	<!-- Container Start -->
-	<div class="container-fluid">
-		<!-- Row Start -->
-		<section class="row-fluid">
-			<div class="span12">
-				<div class="whatisMG-inner">
-					<div class="MGlogo">
-						<img src="/images/what-is-logo.png" alt="Music Gateway" />
-					</div>
-					<h3>What is Music Gateway?</h3>
-					<p>Music Gateway is a global business platform, which connects music professionals from around the globe in one simple, easy to use website. Unlike LinkedIn, we are Project workflow focused so you don't get connected until you are actually doing business or collaborating. We offer targeted ways of reaching new talent and bringing that talent to your own projects. We are stimulating work and generating paid session work for the community.</p>
-					<p>Our projects allow you to reach out on a global scale and provide your services to other professionals, equally you can hire &amp; source other music pro's and develop your career with feedback following each project. Your profile acts as a portfolio for other users to review. Get registered today for free and start working your music projects.</p>
-				</div>
-			</div>
-		</section>
-		<!-- Row End -->
-	</div>
-	<!-- Contaciner End -->
-</div>
-<!-- What Is Music Gateway End -
+
 
 
 

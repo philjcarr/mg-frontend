@@ -64,16 +64,16 @@
 				<article>
 					<ul>
 						<li>
-							<a href="/contact" title="Get In Contact" class="heading">Get In Contact</a>
+							<a href="/contact" title="Get In Touch" class="heading">Get In Touch</a>
 						</li>
 						<li>
 							<a href="mailto:hello@musicgateway.net" title="hello@musicgateway.net">hello@musicgateway.net</a>
 						</li>
 						<li class="desktopOnly">
-							<a href="#" title="+44 (0) 845 257 5699">+44 (0) 845 257 5699</a>
+							<a href="#" title=" UK +44 (0) 845 257 5699">UK +44 (0) 845 257 5699</a>
 						</li>
 						<li class="mobileOnly">
-							<a href="tel:0845 257 5699" title="+44 (0) 845 257 5699">+44 (0) 845 257 5699</a>
+							<a href="tel:0845 257 5699" title="+44 (0) 845 257 5699">UK +44 (0) 845 257 5699</a>
 						</li>
 					</ul>
 				</article>
@@ -84,7 +84,7 @@
 						<a href="https://twitter.com/Music_Gateway" class="twitter icon" title="Twitter" target="_blank">Twitter</a>
 					</div>
 					<div class="clear"></div>
-					<p>&copy; 2013 Music Gateway Ltd - Registered &amp; Trademarked</p>
+					<p>&copy; 2014 Music Gateway Ltd - Registered &amp; Trademarked in the United Kingdom. Company No. 7230780</p>
 					<ul>
 						<li>
 							<a href="#" title="Privacy Policy">Privacy Policy</a>
