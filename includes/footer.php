@@ -47,13 +47,13 @@
 							<a href="/partners" title="Partners">Partners</a>
 						</li>
 						<li>
-							<a href="press-and-media" title="Press &amp; Media">Press &amp; Media</a>
+							<a href="/press-and-media" title="Press &amp; Media">Press &amp; Media</a>
 						</li>
 						<li>
 							<a href="/faqs" title="FAQs">FAQs</a>
 						</li>
 						<li>
-							<a href="/about-us/a-to-z-of-music-business" title="A to Z of Music Business">A to Z of Music Business</a>
+							<a href="/a-to-z-of-music-business" title="A to Z of Music Business">A to Z of Music Business</a>
 						</li>
 						<li>
 							<a href="/competitions" title="Competitions">Competitions</a>
