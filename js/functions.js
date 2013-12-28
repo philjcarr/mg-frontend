@@ -61,7 +61,13 @@ $(document).ready(function() {
     $('.accorLink').click(function() {
         $('.accorLink').removeClass('active');    
         $(this).addClass('active');
-    }); 
+    });
+
+    //Animation
+    var controller = $.superscrollorama();
+	controller.addTween('.fade-it', TweenMax.from( $('.fade-it'), .5, {css:{opacity: 0}}));
+	controller.addTween('.fly-it', TweenMax.from( $('.fly-it'), .25, {css:{right:'2000px'}, ease:Quad.easeInOut}));
+	controller.addTween('.scale-it', TweenMax.fromTo( $('.scale-it'), .25, {css:{opacity:0}, immediateRender:true, ease:Quad.easeInOut}, {css:{opacity:1}, ease:Quad.easeInOut}));
 
 });
 //Doc Ready End

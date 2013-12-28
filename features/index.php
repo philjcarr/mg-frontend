@@ -91,7 +91,7 @@
 		<!-- Row Start -->
 		<section class="row-fluid">
 			<div class="span12">
-				<div class="features-profileScreens">
+				<div class="features-profileScreens fly-it">
 					<img src="/images/features/profile-screens.png" alt="Profiles" />
 				</div>
 			</div>
@@ -128,7 +128,7 @@
 						<p>So, what's different about Music Gateway? In one word "Projects".</p>
 						<p><a href="/projects" title="View Project Types" class="blueButton">View Project Types</a></p>
 					</div>
-					<div class="right">
+					<div class="right fade-it">
 						<img src="/images/features/four-projects.png" alt="Projects" />
 					</div>
 				</div>
@@ -184,7 +184,7 @@
 					<div class="largeScreen">
 						<ul>
 							<li>
-								<img src="/images/features/screen.jpg" alt="Workspace" />
+								<img src="/images/features/screen.jpg" alt="Workspace" class="scale-it" />
 							</li>
 						</ul>
 					</div>

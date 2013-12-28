@@ -112,6 +112,10 @@
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/slider.min.js"></script>
 <script type="text/javascript" src="/js/jquery.meanmenu.js"></script>
+
+<script type="text/javascript" src="/js/TweenMax.min.js"></script>
+<script type="text/javascript" src="/js/jquery.superscrollorama.js"></script>
+
 <script type="text/javascript" src="/js/functions.js"></script>
 
 </body>

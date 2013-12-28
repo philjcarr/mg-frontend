@@ -7,6 +7,7 @@ figure{position:relative}
 figure img{width:100%}
 @keyframes fadein{from{opacity:0} to{opacity:1}}@-moz-keyframes fadein{from{opacity:0} to{opacity:1}}@-webkit-keyframes fadein{from{opacity:0} to{opacity:1}}.row-fluid{max-width:1140px;margin:0 auto}
 .row-fluid [class*="span"]{min-height:0}
+.fly-it{position:relative}
 body{font-family:"Open Sans",sans-serif}
 h1,h2,h3,h4,h5,h6{font-family:"Signika",sans-serif;font-weight:600;color:#27313d;letter-spacing:-0.04em;padding:.5em 0;line-height:1em}
 h1{font-size:4em}
