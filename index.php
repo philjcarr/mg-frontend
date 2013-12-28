@@ -8,7 +8,7 @@
 		<section class="row-fluid">
 			<div class="span12">
 				<h1 class="#intro">Connecting Music Professionals</h1>
-				<h2>Helping you conduct business and find talent worldwide</h2>
+				<h2>Helping you conduct business, project manage &amp; find talent worldwide</h2>
 				<div class="left">
 					<a href="/sign-up" title="Get Started" class="orangeButton">Get Started</a>
 				</div>

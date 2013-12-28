@@ -74,7 +74,7 @@
 					<p>Upload your audio which best reflects your talent &amp; skills &amp; services you offer. You can login via Facebook &amp; Soundcloud whereby we will automatically transfer your music to your account.</p>
 					<p>Defining your skills will determine the potential work opportunities &amp; notifications you receive. Users will be informed about posted projects that are relevant to their skills. Posted projects are how users connect through Music Gateway.</p>
 					<p>You can also upload images of yourself, your artists or a business you represent.</p>
-					<p>Completing projects generates feedback for both the project owner &amp; the worker. Your feedback acts as a site ranking &amp; increasing your site positioning when pitching for work. Your full profile displays feedback, recent activity, biog, music portfolio &amp; quick links to other areas of the site.</p>
+					<p>Completing projects generates feedback for both the project owner &amp; the worker. Your feedback acts as a site ranking &amp; increases your site positioning when pitching for work and gives the project worker more confidence in you from the beginning.</p>
 				</div>
 			</div>
 		</section>
@@ -118,9 +118,13 @@
 							Projects
 						</h2>
 						<p>Choose Type. Enter Details. We Notify. Choose Winner.</p>
-						<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
-						<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups & connecting to new clients & keeping that work CV up to scratch.</p>
-						<p>As far as the Music Industry is concerned, LinkedIn connections can be fairly random, then nothing tends to happen. Sound familiar? The main reason is that connections aren't linked to a purpose, an end goal or an objective! LinkedIn & many other sites don't provide work flow functionality & that all important end result.</p>
+						<p>Music Gateway is like no other music service. Yes we are a business platform, but we are not like LinkedIn. We support your career, but 
+							we don't sell, distribute or promote your music directly to the public like so many other sites.</p>
+						<p>Allow us to explain... Millions of people use LinkedIn, in fact +200 million worldwide. LinkedIn does have benefits, networking groups &amp; 
+							connecting to new clients &amp; keeping that work CV up to scratch.</p>
+						<p>As far as the Music Industry is concerned, LinkedIn connections can be fairly random, and then nothing tends to happen. Sound familiar? 
+							The main reason is that connections aren't linked to a purpose, an end goal or an objective! 
+							LinkedIn &amp; many other sites don't provide work flow functionality &amp; that all important end result.</p>
 						<p>So, what's different about Music Gateway? In one word "Projects".</p>
 						<p><a href="/projects" title="View Project Types" class="blueButton">View Project Types</a></p>
 					</div>
@@ -145,11 +149,11 @@
 			<div class="span12">
 				<div class="signUp-fullWidth">
 					<div class="left">
-						<h3>Show The World Your Musical Talent Today!</h3>
-						<p>You never know what talent you could find...</p>
+						<h3>Find likeminded pros from around the world</h3>
+						<p>Bring talent, collaborate and conduct business in a streamlined way</p>
 					</div>
 					<div class="right">
-						<a href="/sign-up" title="Sign Up &amp; Create My Project" class="greenButton">Sign Up &amp; Create My Project</a>
+						<a href="/sign-up" title="Sign Up &amp; Create A Project" class="greenButton">Sign Up &amp; Create A Project</a>
 					</div>
 				</div>
 			</div>
@@ -210,7 +214,7 @@
 					<h3>Secure. Transact. Manage.</h3>
 					<p>Once registered, you create a transaction account. Don't worry, we DO NOT take any form of payment details or ask for any money, you simply choose which currency you wish to link to your account. This can be one of three different currencies, US Dollars, UK Pounds Sterling &amp; Euros.</p>
 					<p>Your account allows you to receive payment from other users for your project work, or to pay other users for their services. Pitching for project work is 100% free, so is your account, we charge a percentage fee based on fixed fee project work you receive.</p>
-					<p>Your account is protected by an encrypted SSL certificate. Monies received from other currencies to your account are automatically converted into your own currency. Crediting & withdrawing funds is fast and easy with various payment options available.</p>
+					<p>Your account is protected by an encrypted SSL certificate. Monies received from other currencies to your account are automatically converted into your own currency. Crediting &amp; withdrawing funds is fast and easy with various payment options available.</p>
 				</div>
 			</div>
 		</section>
