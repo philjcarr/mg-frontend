@@ -159,7 +159,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#four" class="accorLink first">
+	                <a href="#four" class="accorLink">
 	                    Collaborations
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -175,7 +175,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#five" class="accorLink first">
+	                <a href="#five" class="accorLink">
 	                    Confidence
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -192,7 +192,7 @@
 	                <!-- A-Z End -->
 	                
 	                <!-- A-Z Start -->
-	                <a href="#six" class="accorLink first">
+	                <a href="#six" class="accorLink">
 	                    Content
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -204,7 +204,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#seven" class="accorLink first">
+	                <a href="#seven" class="accorLink">
 	                    Copyright
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -230,7 +230,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#eight" class="accorLink first">
+	                <a href="#eight" class="accorLink">
 	                    Co-writing
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -243,7 +243,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#nine" class="accorLink first">
+	                <a href="#nine" class="accorLink">
 	                    Cross-over
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -274,7 +274,7 @@
 	                <!-- A-Z End -->
 	                
 	                <!-- A-Z Start -->
-	                <a href="#eleven" class="accorLink first">
+	                <a href="#eleven" class="accorLink">
 	                    Demo
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -303,7 +303,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twelve" class="accorLink first">
+	                <a href="#twelve" class="accorLink">
 	                    Diva
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -335,7 +335,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourteen" class="accorLink first">
+	                <a href="#fourteen" class="accorLink">
 	                    Empowering
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -354,7 +354,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fifteen" class="accorLink first">
+	                <a href="#fifteen" class="accorLink">
 	                    Engagement
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -391,7 +391,7 @@
 	                <h2>G for ...</h2>
 
 	            	<!-- A-Z Start -->
-	                <a href="#seventeen" class="accorLink first">
+	                <a href="#seventeen" class="accorLink">
 	                    Getting Noticed
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -413,7 +413,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#eighteen" class="accorLink first">
+	                <a href="#eighteen" class="accorLink">
 	                    Global
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -444,7 +444,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twenty" class="accorLink first">
+	                <a href="#twenty" class="accorLink">
 	                    Hit Record
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -479,7 +479,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twentytwo" class="accorLink first">
+	                <a href="#twentytwo" class="accorLink">
 	                    Investment
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -546,7 +546,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twentysix" class="accorLink first">
+	                <a href="#twentysix" class="accorLink">
 	                    Licensing
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -560,7 +560,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twentyseven" class="accorLink first">
+	                <a href="#twentyseven" class="accorLink">
 	                    Luck
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -588,7 +588,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#twentynine" class="accorLink first">
+	                <a href="#twentynine" class="accorLink">
 	                    Mastering
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -645,7 +645,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtytwo" class="accorLink first">
+	                <a href="#thirtytwo" class="accorLink">
 	                    Projects
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -659,7 +659,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtythree" class="accorLink first">
+	                <a href="#thirtythree" class="accorLink">
 	                    Publisher
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -699,7 +699,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtysix" class="accorLink first">
+	                <a href="#thirtysix" class="accorLink">
 	                    Record Label
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -713,7 +713,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtyseven" class="accorLink first">
+	                <a href="#thirtyseven" class="accorLink">
 	                    Release
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -727,7 +727,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtyeight" class="accorLink first">
+	                <a href="#thirtyeight" class="accorLink">
 	                    Remix
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -739,7 +739,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#thirtynine" class="accorLink first">
+	                <a href="#thirtynine" class="accorLink">
 	                    Resource
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -768,23 +768,22 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourty" class="accorLink first">
+	                <a href="#fourty" class="accorLink">
 	                    SEO
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
 	                <div id="fourty">
-	                    <p>	'Search Engine Optimisation', that's what is stands for but what does it mean? We could write 16 page essay on this, but in a nut shell, it's about unique content and keywords 
+	                    <p>'Search Engine Optimisation', that's what is stands for but what does it mean? We could write 16 page essay on this, but in a nut shell, it's about unique content and keywords 
 	                    	on a website being ranked by search engines as a level of relevance to a user's search term in the engine.</p>
-	                    <p> Why is it important? Well for starters, if your artist name is 'Mr Joe Blogs' then ideally your domain name should include your artist name, this is important. e.g. www.mrjoeblogs.com.</p>
-	                    <p> You want traffic to your website and you want the right traffic to your website, if you sell cheese, don't call yourself the ham factory! Make sure your content is well written, engaging 
-	                    	and refers to keywords which you feel your fans would use to search for you. A BLOG or some form of news feed is so important, so that you can update and regularly commit unique content 
+	                    <p>Why is it important? Well for starters, if your artist name is 'Mr Joe Blogs' then ideally your domain name should include your artist name, this is important. e.g. www.mrjoeblogs.com.</p>
+	                    <p>You want traffic to your website and you want the right traffic to your website, if you sell cheese, don't call yourself the ham factory! Make sure your content is well written, engaging and refers to keywords which you feel your fans would use to search for you. A BLOG or some form of news feed is so important, so that you can update and regularly commit unique content 
 	                    	to your website.</p>
 	                    <p> With SEO - Unique Content is KING!</p> 
 	                </div>
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtyone" class="accorLink first">
+	                <a href="#fourtyone" class="accorLink">
 	                    Session Work
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -797,7 +796,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtytwo" class="accorLink first">
+	                <a href="#fourtytwo" class="accorLink">
 	                    Social Media
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -812,7 +811,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtythree" class="accorLink first">
+	                <a href="#fourtythree" class="accorLink">
 	                    Sync
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -847,7 +846,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtyfive" class="accorLink first">
+	                <a href="#fourtyfive" class="accorLink">
 	                    Teamwork
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -863,7 +862,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtysix" class="accorLink first">
+	                <a href="#fourtysix" class="accorLink">
 	                    Timing
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -904,7 +903,7 @@
 	                <!-- A-Z End -->
 
 	                <!-- A-Z Start -->
-	                <a href="#fourtyeight" class="accorLink first">
+	                <a href="#fourtyeight" class="accorLink">
 	                    Unsigned
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>

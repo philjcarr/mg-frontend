@@ -175,7 +175,7 @@ section.plansBackground{background:#36b7e6;padding:2em 0}
 .container-fluid .row-fluid .span12 .contactBanner-address address p,.container-fluid .row-fluid .span12 .contactBanner-address address a{color:#fff;padding:.25em 0;font-family:"Signika",sans-serif}
 .container-fluid .row-fluid .span12 .contactBanner-address address a{text-decoration:underline;padding:.25em 0 0}
 .container-fluid .row-fluid .span9 .companyInner{padding:2.5em 0 0 1em}.container-fluid .row-fluid .span9 .companyInner h1{padding:0 0 .5em 0;border-bottom:1px solid #eeeff0}
-.container-fluid .row-fluid .span9 .companyInner h2{font-size:1.6em;padding:1.6em 0;font-family:"Open Sans",sans-serif}
+.container-fluid .row-fluid .span9 .companyInner h2{font-size:1.6em;padding:1.6em 0;font-family:"Open Sans",sans-serif;border-bottom:1px solid #eeeff0;font-weight:600}
 .container-fluid .row-fluid .span9 .companyInner article img{width:100%;padding:0 0 1.5em 0}
 .container-fluid .row-fluid .span9 .companyInner .teamMembers{float:left;width:100%;padding:2em 0}.container-fluid .row-fluid .span9 .companyInner .teamMembers .staff{float:left;width:30%;display:block;text-align:center;margin-right:5%}.container-fluid .row-fluid .span9 .companyInner .teamMembers .staff.last{margin-right:0}
 .container-fluid .row-fluid .span9 .companyInner .teamMembers .staff h4{font-size:2em;padding-bottom:0}

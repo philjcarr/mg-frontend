@@ -255,7 +255,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#fourteen" class="accorLink first">
+	                <a href="#fourteen" class="accorLink">
 	                    Q. What types of Music Files can I upload to my Profile?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -269,7 +269,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#fifteen" class="accorLink first">
+	                <a href="#fifteen" class="accorLink">
 	                    Q. What is a Workspace?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -282,7 +282,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#sixteen" class="accorLink first">
+	                <a href="#sixteen" class="accorLink">
 	                    Q. Can I upload reference files, which are solely for the purpose of referencing for a Project or for Mastering?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -312,7 +312,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#eighteen" class="accorLink first">
+	                <a href="#eighteen" class="accorLink">
 	                    Q. Do you have tips on pitching and how best to secure Project work?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -338,7 +338,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#nineteen" class="accorLink first">
+	                <a href="#nineteen" class="accorLink">
 	                    Q. Is it free to pitch on Projects for work?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -350,7 +350,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twenty" class="accorLink first">
+	                <a href="#twenty" class="accorLink">
 	                    Q. I have a dispute with a Project or a Worker, what do I do?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -361,7 +361,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twentyone" class="accorLink first">
+	                <a href="#twentyone" class="accorLink">
 	                    Q. I have received unfair feedback from another user, can this be removed?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -374,7 +374,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twentytwo" class="accorLink first">
+	                <a href="#twentytwo" class="accorLink">
 	                    Q. As a Project winner, when do I pay fees and when do I get paid?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -386,7 +386,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twentythree" class="accorLink first">
+	                <a href="#twentythree" class="accorLink">
 	                    Q. Can I contact other users outside Music Gateway?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -402,7 +402,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twentyfour" class="accorLink first">
+	                <a href="#twentyfour" class="accorLink">
 	                    Q. If I want to work with the same user again, why Post another Project?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
@@ -447,7 +447,7 @@
 	                <!-- FAQ End -->
 
 	                <!-- FAQ Start -->
-	                <a href="#twentysix" class="accorLink first">
+	                <a href="#twentysix" class="accorLink">
 	                    Q. I have a record label and would like to work with Music Gateway on a potential competition or partnership, who do I talk to?
 	                    <span class="arrow"><!-- Arrow --></span>
 	                </a>
