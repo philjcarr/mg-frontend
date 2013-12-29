@@ -24,7 +24,7 @@
 						<label for="rememberMe">Remember Me</label>
 					</fieldset>
 					<fieldset class="loginHorz right">
-						<a href="/login/forgot-password" title="I forgot my password">I forgot my password</a>
+						<a href="/login/forgot-details" title="I forgot my password">I forgot my details</a>
 					</fieldset>
 					<div class="clearfix"></div>
 					<fieldset>

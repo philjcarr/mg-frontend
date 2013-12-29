@@ -577,6 +577,9 @@ h2 {
 		    &.first {
 		    	border-top: 0 none;
 		    }
+		    &:hover {
+		    	opacity: 0.8;
+		    }
 		}
 		span {
 			&.arrow {
@@ -618,14 +621,24 @@ h2 {
 /*  FORM STYLES  */
 
 form {
+	.detailInput {
+		padding-top: @spaceOne;
+	}
 	fieldset,
 	fieldset > div {
 		label {
 			color: @darkBlue2;
 			padding: 0 0 @spaceHalf;
 		}
+		p {
+			text-align: center;
+			font-family: @fontSig;
+			color: @darkBlue2;
+			font-size: @font2;
+		}
 		input[type="text"],
 		input[type="password"],
+		select,
 		textarea {
 			width: 100%;
 			padding: 0.8em 1em;
@@ -1570,7 +1583,11 @@ section {
 				text-align: center;
 			}
 			.featuresProject {
-				padding: 5em 0;
+				padding: 5em 0 @spaceOne;
+				float: @left;
+				&.securityBottom {
+					padding: 4em 0 5em;
+				}
 				.left {
 					float: @left;
 					width: @width60;
@@ -1598,6 +1615,9 @@ section {
 					display: block;
 					img {
 						margin: 5em 0 0;
+						&.securityImage {
+							margin: @spaceOne 0 0;
+						}
 					}
 				}
 			}
@@ -1870,6 +1890,7 @@ section {
 					display: block;
 					padding: @spaceOne 0;
 					border-bottom: 1px solid @lightGrey;
+					margin-bottom: @spaceOne;
 					&.first {
 						padding: 0 0 @spaceOne;
 					}
@@ -1889,6 +1910,19 @@ section {
 						}
 					}
 					ul {
+						&.noBullet {
+							list-style: none;
+							li {
+								background: @white;
+								padding: 0 0 @spaceHalf 0;
+								&.first {
+									padding: @spaceOne 0 @spaceHalf 0;
+								}
+								&:hover {
+									background: @white;
+								}
+							}
+						}
 						li {
 							padding: @spaceHalf + 0.2em 0 @spaceHalf + 0.2em 33px;
 							background: url('/images/small-icons.png') no-repeat;
@@ -2072,6 +2106,22 @@ section {
 	display: block;
 }
 
+/* FOOTER AREA */
+.backToTop {
+	position: fixed;
+	bottom: 2em;
+	right: 0px;
+	text-decoration: none;
+	background: @cream url('/images/back-to-top.png') no-repeat center 9px;
+	padding: 1em;
+	display: none;
+	width: 55px;
+	height: 45px;
+	outline: none;
+	&:hover {
+		opacity: 0.8;
+	}
+}
 
 footer {
 	background: @darkBlue3;
@@ -2822,19 +2872,5 @@ a.meanmenu-reveal {
 .mean-remove {
 	display: none !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

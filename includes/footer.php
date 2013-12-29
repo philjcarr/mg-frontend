@@ -106,6 +106,8 @@
 </footer>
 <!-- Footer End -->
 
+<a href="#" class="backToTop"><!-- Back to Top --></a>
+
 
 <!-- jQuery -->
 <script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>

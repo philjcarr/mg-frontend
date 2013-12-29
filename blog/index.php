@@ -66,17 +66,45 @@
 					<h3>Search</h3>
 					<form action="" method="">
 						<fieldset>
-							<input type="text" id="search" name="search" tabindex="1" placeholder="Search for a blog post..." />
+							<input type="text" id="search" name="search" tabindex="1" placeholder="Search the blog..." />
 						</fieldset>
 					</form>
 				</article>
 				<article>
-					<h3>Never Miss A Post</h3>
+					<h3>Never Miss A Post - Sign Up</h3>
 					<form action="" method="">
 						<fieldset>
-							<input type="text" id="email" name="email" tabindex="2" class="email withIcon" />
+							<input type="text" id="email" name="email" tabindex="2" class="email withIcon" placeholder="Email address" />
 						</fieldset>
 					</form>
+				</article>
+				<article>
+					<h3>Latest Posts</h3>
+					<ul class="noBullet">
+						<li class="first">
+							<a href="" title="">Post Title</a>
+						</li>
+						<li>
+							<a href="" title="">Post Title</a>
+						</li>
+						<li>
+							<a href="" title="">Post Title</a>
+						</li>
+					</ul>
+				</article>
+				<article>
+					<h3>Categories</h3>
+					<ul class="noBullet">
+						<li class="first">
+							<a href="" title="">Category Title</a>
+						</li>
+						<li>
+							<a href="" title="">Category Title</a>
+						</li>
+						<li>
+							<a href="" title="">Category Title</a>
+						</li>
+					</ul>
 				</article>
 				<article class="testimonial">
 					<p class="comment">The alarming thing is, the mistakes that produce these regrets are all errors of omission. You forget your dreams, ignore your family, suppress your feelings, neglect your friends, and forget to be happy.”</p>

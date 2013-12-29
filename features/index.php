@@ -184,7 +184,7 @@
 					<div class="largeScreen">
 						<ul>
 							<li>
-								<img src="/images/features/screen.jpg" alt="Workspace" class="scale-it" />
+								<img src="/images/features/screen.jpg" alt="Workspace" />
 							</li>
 						</ul>
 					</div>
@@ -223,6 +223,40 @@
 	<!-- Contaciner End -->
 </div>
 <!-- Features Account End -->
+
+<!-- Features Security Start -->
+<div id="security">
+	<!-- Container Start -->
+	<div class="container-fluid">
+		<!-- Row Start -->
+		<section class="row-fluid">
+			<div class="span12">
+				<div class="featuresProject securityBottom">
+					<div class="left">
+						<h2>
+							<span>
+								<img src="/images/features/security-mini.png" alt="Security" />
+							</span>
+							Security
+						</h2>
+						<p>Protect. Secure. Peace of Mind.</p>
+						<p>We understand how important your music &amp; information is to you. We are after all industry people and therefore take our security extremely seriously.</p>
+						<p>Music Gateway uses the the strongest banking-grade encryption to protect our website, which are hosted in secure data centres. We also use advanced ID verification systems to check that users are who they claim to be to protect you and your music.</p>
+						<p>Music Gateway is a registered data controller of the ICO (Information Commissioner's Office) within the United Kingdom, and therefore bound by some of the most stringent data protection laws.</p>
+					</div>
+					<div class="right fade-it">
+						<img src="/images/features/features-security.png" alt="Security" class="securityImage" />
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Row End -->
+	</div>
+	<!-- Contaciner End -->
+</div>
+<!-- Features Security End -->
+
+
 
 
 
