@@ -59,10 +59,12 @@
 					</div>
 					<!-- Forgot Passowrd End -->
 
+					<!-- YOU WILL SEE THIS AREA ONCE YOU HAVE VERIFIED YOUR EMAIL FOR THE USERNAME QUESTION -->
 					<!-- <fieldset>
 						<label for="forgotUsername">Your username is:</label>
 						<p class="username">djrap</p>
 					</fieldset> -->
+					<!-- YOU WILL SEE THIS AREA ONCE YOU HAVE VERIFIED YOUR EMAIL FOR THE USERNAME QUESTION -->
 					
 				</form>
 				<!-- Form End -->

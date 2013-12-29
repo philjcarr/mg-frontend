@@ -632,9 +632,11 @@ form {
 		}
 		p {
 			text-align: center;
-			font-family: @fontSig;
-			color: @darkBlue2;
-			font-size: @font2;
+			&.username {
+				font-family: @fontSig;
+				color: @darkBlue2;
+				font-size: @font2;
+			}
 		}
 		input[type="text"],
 		input[type="password"],
